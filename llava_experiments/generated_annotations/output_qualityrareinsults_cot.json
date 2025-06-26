@@ -1,0 +1,494 @@
+[
+    {
+        "image_id": "c1lro5",
+        "text": "you know that laugh that comes out when your in a place where you subconsciously know you don't want to lol.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text in the image is a straightforward statement of personal preference, which is not inherently sarcastic.\n- The text overlaid on the image is a humorous exaggeration, but it does not contain the intentional contradiction or mocking tone that is characteristic of sarcasm. The statement is not meant to be taken literally and is likely a playful joke rather than a genuine critique."
+    },
+    {
+        "image_id": "cwuj98",
+        "text": "i'm wheezing fam",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"You've been depraved by your own depravity. Depraved depravity. I suppose.\" is a clear example of sarcasm, as it contradicts itself by using the word \"depraved\" in a sarcastic manner, which is meant to mock or critique the original post."
+    },
+    {
+        "image_id": "c2f3n3",
+        "text": "nice",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward observation with no clear indication of irony or intent to mock. The image shows a young boy in a setting that does not provide any additional context to suggest sarcasm. The text and image together do not exhibit any clear evidence of sarcasm."
+    },
+    {
+        "image_id": "c1mdfw",
+        "text": "yes, it's mine. but i think it's pretty good.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The comment is not inherently sarcastic based on the text alone. It appears to be a straightforward statement of opinion or advice.\n- The use of the word \"hope\" suggests a genuine concern or interest in the reader's academic pursuits.\n- The comment does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "c8f2br",
+        "text": "george: if we should step on a mine sir, what should we do?\n\nblackadder: well the normal procedure is to leap 200 feet into the air and scatter yourself over a large area.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The response from the character known for his sarcastic wit is a clear example of sarcasm. The answer to the question about stepping on a mine is absurd and contradicts the serious nature of the question, which is a typical characteristic of sarcasm."
+    },
+    {
+        "image_id": "ghsrh5",
+        "text": "what does that even mean? not very quality and you can barely understand his mouth diarrhea.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text contains several elements that are indicative of sarcasm. The user is making a statement that is the opposite of what they likely mean, which is a characteristic of sarcasm. The user is also implying that Buick is not as intelligent as the user, which is a form of mockery. The phrase \"crawling out of a hole\" is also a sarcastic way of saying that Buick is in a bad situation."
+    },
+    {
+        "image_id": "c1kzz1",
+        "text": "in audacity at the s h e e r . v o l u m e . of this lad.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase is a clear example of sarcasm, as it uses a literal description of a person's mouth to imply a negative or critical statement about them, which is the defining characteristic of sarcasm."
+    },
+    {
+        "image_id": "cbaka6",
+        "text": "this actually isn’t that rare and is used by many people including me",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is straightforward and does not contain any clear indicators of sarcasm, such as ironic tone or contradictory language. The user appears to be making a genuine statement about the purpose of trees on Earth."
+    },
+    {
+        "image_id": "eowrht",
+        "text": "who won?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image itself does not provide clear evidence of sarcasm. The face paint could be interpreted as a form of artistic expression or a mask, which is not inherently sarcastic. The text \"who won?\" is a straightforward question that does not contain any obvious contradictions or mismatches between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "dc1xrq",
+        "text": "it feels like this needs context to truly shine",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a literal statement about a car issue, and the image shows a clear oil leak. There is no evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "ccyrlk",
+        "text": "seriously, wtf is wrong with peta?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The tweet is a factual statement about the dangers of interacting with wild animals, and there is no evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm. The image does not provide any additional context or cues that would suggest sarcasm."
+    },
+    {
+        "image_id": "c1mtwy",
+        "text": "blackadder on the importance of brain size",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The quote is a sarcastic commentary on the importance of brain size, suggesting that it is not the most important factor in intelligence. The man's facial expression and the context of the quote, combined with the military uniform, suggest a tone of irony and mockery."
+    },
+    {
+        "image_id": "cn9q70",
+        "text": "this isn’t quality.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The statement appears to be a genuine complaint rather than a sarcastic comment.\n- The user seems to be expressing a frustration with the process of receiving death certificates, which is a serious matter.\n- The mention of a \"barren field of fucks to give\" is likely an expression of exasperation or frustration, but it does not exhibit the intentional contradiction or mocking tone that is characteristic of sarcasm."
+    },
+    {
+        "image_id": "hchka8",
+        "text": "if these lyrics resemble contemporary rap artists there is something wrong with the industry",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is straightforward and does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The user appears to be expressing a genuine opinion about the music industry."
+    },
+    {
+        "image_id": "c20291",
+        "text": "this looks like a rare insult to me",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is a clear example of sarcasm, as it contradicts the expected behavior of someone who is speaking or performing, suggesting that they are not only unattractive but also incapable of speaking or performing effectively. The image of the man with a microphone adds to the irony, as it implies that he is someone who is expected to be articulate or entertaining, but the comment implies the opposite."
+    },
+    {
+        "image_id": "c1ou0c",
+        "text": "an insult of outstanding quality!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a literal description and does not contain any of the typical linguistic cues that would indicate sarcasm, such as the use of ironic language or the intent to mock. The image does not provide any visual cues that would suggest sarcasm either. The overall content of the post is straightforward and does not contain any elements that would lead to the conclusion that the post is meant to be sarcastic."
+    },
+    {
+        "image_id": "dj6l9s",
+        "text": "thats one hell of an insult...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward reaction to the image, and there is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm. The phrase \"hell of an\" is often used to emphasize the intensity of something, but without additional context, it's unclear if the speaker is being sarcastic or not."
+    },
+    {
+        "image_id": "o5cx2h",
+        "text": "i am now imagining the a-aron skit taking place in a roll call for a roman infantry garrison.  it is rather entertaining.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is a straightforward request and does not contain any obvious contradictions or mismatches between the verbal and visual content that would indicate sarcasm.\n- The image does not provide any visual cues that would suggest a sarcastic intent."
+    },
+    {
+        "image_id": "c1mpq5",
+        "text": "don't get ig, it sucks",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a direct, unambiguous expression of dislike for a social media platform, without any indication of irony or intent to mock. The image's positive comment count also supports the idea that the poster's opinion is not meant to be sarcastic, as it seems to be shared by others."
+    },
+    {
+        "image_id": "ca608f",
+        "text": "are you actually asking if a \"ur mom lol\" is a quality _rare_ insult?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"ur mom lol\" is a common internet meme that is often used sarcastically to mock or belittle someone. The context of the comment, combined with the use of this meme, suggests that the commenter is being sarcastic in their response."
+    },
+    {
+        "image_id": "c49y9l",
+        "text": "i'm gonna say that's not quality",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The comment from the first user is a straightforward critique of the video content, stating \"this is fucked\" and \"fucked like ya face?\" which are expressions of displeasure or frustration. The reply from the second user is a neutral response, acknowledging the first user's comment with \"...\" and a heart emoji, which is a common way to express agreement or understanding in a non-sarcastic manner. The overall tone of the conversation is not sarcastic, as there is no clear evidence of intentional contradiction or mocking. The visual content of the image, which is a screenshot from a video game, does not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "cr47w4",
+        "text": "meme credit: /u/drgeezerladypleaser",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The caption is not sarcastic because it is not intended to mock or critique. It is an example of hyperbole, which is a form of exaggeration for emphasis.\n- The visual cues in the image support the literal interpretation of the caption, as the boat is indeed heavy and the truck is capable of carrying it.\n- There is no clear, unambiguous evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "ecys2b",
+        "text": "i love tom but istg he looks so creepy",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would be characteristic of sarcasm. The statement seems to be a genuine expression of mixed feelings about Tom's appearance, with a humorous exaggeration rather than a sarcastic comment."
+    },
+    {
+        "image_id": "c1l9et",
+        "text": "i blame him as well. who is he?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The commenter's use of the word \"blame\" suggests a negative judgment, and the phrase \"who is he?\" implies a lack of knowledge about the person in the image. The combination of these elements, along with the negative tone, suggests that the commenter might be using sarcasm to mock or critique the person in the image without actually knowing the context."
+    },
+    {
+        "image_id": "c2ui3o",
+        "text": "you can really feel the resentment",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The comment is sarcastic because it implies that the user would have been more interested in skateboarding if they were not tied down by their wife, which is a contradiction of the user's actual situation. The use of the word \"resentment\" suggests a negative attitude towards the situation, which is a key element of sarcasm."
+    },
+    {
+        "image_id": "mc3vut",
+        "text": "i would call that a compliment.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is sarcastic because it contradicts the visual cues of the image, which depicts a professional setting, by suggesting a positive or complimentary context. The humor is derived from the mismatch between the expected seriousness of the setting and the unexpected positive statement."
+    },
+    {
+        "image_id": "c1n10n",
+        "text": "> if she were a book, she would be *two* books...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase is a compliment and not intended to be sarcastic. It is a literal description of the person's qualities, not a mocking or ironic statement."
+    },
+    {
+        "image_id": "c22h46",
+        "text": "kappa is my senpai owo",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward critique without any clear intent to mock or contradict. The use of hyperbole (\"less character development than an 80s sitcom\") is a form of exaggeration for emphasis, which is not sarcasm."
+    },
+    {
+        "image_id": "c28k5x",
+        "text": "wonderful quality.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"wonderful quality\" is a common sarcastic remark, as it is typically used to mock or criticize something that is actually of poor quality. The user's comment, combined with the image of a person looking down, suggests a humorous or ironic tone."
+    },
+    {
+        "image_id": "e6o1tl",
+        "text": "the french have got your back",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase \"got your back\" is typically used sarcastically to imply the opposite of what is meant. However, in this context, it is being used in a literal sense, which is not sarcastic. The image of the French flag does not provide any clear evidence of sarcasm."
+    },
+    {
+        "image_id": "dvz2j0",
+        "text": "good, but seen it before.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The statement is straightforward and does not contain any elements that suggest a sarcastic intent. The use of \"seen it before\" implies a sense of familiarity or boredom, which could be interpreted as a genuine reaction rather than a sarcastic one."
+    },
+    {
+        "image_id": "c93hv8",
+        "text": "this is such a good insult, god damn. you just know what he sounds like from that description lmao",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The comment is meant to be light-hearted and amusing, but it does not exhibit the intentional contradiction or mockery that is typical of sarcasm. The user is genuinely expressing their reaction to the description, rather than attempting to mock or critique the subject."
+    },
+    {
+        "image_id": "cqwyd2",
+        "text": "champ is the hard hitter",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The comment's tone and the use of the word \"champ\" suggest a mocking or sarcastic intent, implying that the original post is not important enough to be included in a biography."
+    },
+    {
+        "image_id": "d40ggw",
+        "text": "sips tea",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "- The text contains a contradiction between the expected behavior of neighbors and the actual behavior of one of them, which is a common characteristic of sarcasm.\n- The red outline on the person in the image could be interpreted as a visual emphasis on the subject of the critique, which is the neighbor."
+    },
+    {
+        "image_id": "cr0rf8",
+        "text": "burn 😐",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm.\n- The use of emojis and the casual tone of the text might suggest a genuine desire for a relationship, which is not a typical characteristic of sarcastic posts.\n- The visual cues in the image, such as the smiling emoji, do not contradict the text's apparent sincerity."
+    },
+    {
+        "image_id": "epti7e",
+        "text": "didn't have to do the poor dude like that\nin the second pic he looks so happy",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "- The text is sarcastic because it implies that the person in the image did not have to go through the situation described in the post, which is a form of mockery or critique.\n- The image of the smiling individual could be seen as a contrast to the negative situation described in the post, which is a common element in sarcastic remarks."
+    },
+    {
+        "image_id": "cwg7nd",
+        "text": "i love this woman",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The statement \"I love this woman\" is a positive sentiment, but the visual context of a courtroom setting suggests a formal or serious environment. The contrast between the positive statement and the formal setting could be interpreted as a form of sarcasm, where the speaker is implying the opposite of what they actually mean."
+    },
+    {
+        "image_id": "c1l8dl",
+        "text": "jesus christ that’s a good one",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a genuine compliment, and the image does not show any facial expression that would suggest irony or sarcasm. The overall tone of the post is positive and does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "hiyuf0",
+        "text": "and now this is someone's intrusive thought.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The statement in the text is sarcastic because it contradicts the actual reasons for wearing masks, which are primarily for health and safety purposes. The text implies a motive of vanity or superficiality, which is an ironic and sarcastic twist on the actual reasons for wearing masks. The image of a person wearing a mask reinforces the connection to the masks mentioned in the text. The overall tone of the text is also sarcastic, as it presents a humorous and exaggerated view of the situation."
+    },
+    {
+        "image_id": "j4c3pe",
+        "text": "that dog looks like he's about to drop some ancient eastern wisdom",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image shows a dog with a somewhat contemplative or serious expression, which is being humorously attributed to the dog appearing to be about to drop some ancient eastern wisdom. The text is not contradictory or sarcastic in nature; it is a playful exaggeration meant to be amusing rather than sarcastic."
+    },
+    {
+        "image_id": "c4jdix",
+        "text": "where is the insult?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is sarcastic because it is a negative statement about the Financial Aid office, which is an office that is typically meant to provide assistance. The user is suggesting that the office is not helpful or efficient, which is a form of sarcasm as it is a contradiction to the expected purpose of such an office."
+    },
+    {
+        "image_id": "mmjh4o",
+        "text": "definitely a good insult but wouldn't really call it rare",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The comment is a genuine compliment, and the response is a humorous exaggeration, which is not intended to mock or critique the original poster. The intent is to be funny and lighthearted, rather than sarcastic."
+    },
+    {
+        "image_id": "c1m9d4",
+        "text": "more of a r/rarethreats",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement in the image is a literal and absurd threat, which is not a form of sarcasm. Sarcasm typically involves saying the opposite of what is meant with the intent to mock or critique. The text provided separately does not provide enough context to determine if it is sarcasm or not."
+    },
+    {
+        "image_id": "c9sirt",
+        "text": "it’s? ya mean there is?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward expression of concern about environmental issues, and there is no indication of irony or contradiction that would suggest sarcasm. The image itself does not provide any additional context that would contradict the statement."
+    },
+    {
+        "image_id": "ff04wg",
+        "text": "i haven’t seen a post from here in forever",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward statement with no indication of irony or intent to mock. The image shows a person with a neutral expression, and there are no visual cues that suggest sarcasm. The overall content of the post is not sarcastic."
+    },
+    {
+        "image_id": "c1yf47",
+        "text": "we've all seen this, get lost",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the text and the image, along with the context provided by the user's comment, indicates a clear intent to mock or critique the items in question, which is a defining characteristic of sarcasm."
+    },
+    {
+        "image_id": "f68rob",
+        "text": "that was great",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "- The statement in the text is clearly meant to be sarcastic, as it contradicts the expected behavior of a copy (a piece of text) and is intended to be humorous by suggesting that the copy has human-like characteristics. \n- The image, while not explicitly showing a facial expression, could be interpreted as a visual cue for sarcasm, as it is often used to convey such expressions."
+    },
+    {
+        "image_id": "cvzo5g",
+        "text": "i relate to this so much. and yes, i'm pretty sure i straightened slinkies as a kid.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The statement about straightening slinkies as a kid is a common exaggeration used for comedic effect, and the image reinforces this by showing the slinkie itself. The tone of the text is not sarcastic; it is more of a relatable and humorous comment."
+    },
+    {
+        "image_id": "c1o4d4",
+        "text": "and i want to be a stainless steel rat.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm. The statement appears to be a genuine observation or critique of the community and its perception. The image does not provide any additional context or visual cues that would suggest sarcasm."
+    },
+    {
+        "image_id": "c382hf",
+        "text": "just seen this. very much agree",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The comment is straightforward and does not contain any obvious contradictions or mismatches between the text and the visual cues. The person's facial expression does not convey any signs of irony or mockery. The comment appears to be a genuine agreement with the original post."
+    },
+    {
+        "image_id": "cj5skw",
+        "text": "boi",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The dialogue and the soldier's expression in the image suggest a sarcastic tone, as the question about the other character's height is a common way to mock or belittle someone."
+    },
+    {
+        "image_id": "hhakdw",
+        "text": "i'm a guy, an ambassador for all men, we can be raped and we deserve to be heard and helped as much as any other person.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is not sarcastic because it does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. It appears to be a genuine call for support and understanding, which is not a characteristic of sarcasm."
+    },
+    {
+        "image_id": "c98x7l",
+        "text": "ouch",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The tweet does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The user's comment is a straightforward suggestion for a product feature, which is a common practice on social media. The tone of the tweet is consistent with a genuine suggestion or comment, rather than a sarcastic remark."
+    },
+    {
+        "image_id": "cy3asi",
+        "text": "nice job crossing out that message lol",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement appears to be a genuine expression of a desire for social connection, and the use of \"imagine\" suggests a hypothetical scenario rather than a literal one. The Pepe the Frog emoji is often used in a sarcastic context, but without additional context, it's unclear if it's being used sarcastically here."
+    },
+    {
+        "image_id": "ovs8ve",
+        "text": "brutal 1-2",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a direct insult, which is not a form of sarcasm. Sarcasm typically involves a more subtle form of mockery or irony. The image does not provide any additional context or visual cues that would suggest sarcasm."
+    },
+    {
+        "image_id": "c3ao25",
+        "text": "budget spain",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the text and the image suggests a sarcastic commentary on the economic situation in Spain and Western Europe. The phrase \"budget spain\" and \"Man western Europe is fuck up\" are likely meant to be sarcastic, as they contradict the expected positive perception of these regions."
+    },
+    {
+        "image_id": "q75kkq",
+        "text": "yeah but they have a healthier family dynamic",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The comment does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The text is a straightforward response to the post, and the image does not provide any additional context that would suggest sarcasm. The commenter seems to be genuinely responding to the post's content without any indication of ironic intent."
+    },
+    {
+        "image_id": "czbhpj",
+        "text": "first part was funny. when he/she tried to continue it wasnt funny",
+        "llava-mm-label": "-1",
+        "llava-mm-reasoning": "- The comment does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between the text and the image. The commenter is simply responding to the question with a humorous tone, which does not necessarily imply sarcasm. The commenter's intent seems to be to provide a light-hearted response rather than to mock or critique the original post."
+    },
+    {
+        "image_id": "c1mnsx",
+        "text": "adjective noun. the whole reason this sub exists is because someone thought this isn’t acceptable as a *rare* insult.\n\nwe’re supposed to be better.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"we’re supposed to be better\" implies a moral or ethical expectation, which contrasts with the literal use of \"rare\" as an insult. The user's commentary on the term's usage implies a critique of the person's choice to use \"rare\" in this way, which is a form of sarcasm."
+    },
+    {
+        "image_id": "c2rsj1",
+        "text": "this is more of a r/rareinsults post. similar to the repetitive stuff you see there.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is a direct contradiction to the expected behavior of the character, and the image reinforces this by showing a disordered environment, which is the opposite of what one would expect from a well-behaved character. The repetitive nature of the text and the exaggerated nature of the insult are clear indicators of sarcasm."
+    },
+    {
+        "image_id": "ci9p0z",
+        "text": "why is the name blurred out but in the comments it says kyle what’s the point ofthat",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The comment does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would typically indicate sarcasm.\n- The user's tone is not overtly sarcastic, and the content of the comment seems to be a genuine expression of a desire to avoid annoying someone.\n- The exaggeration about painting walls underneath a tunnel is not a form of sarcasm, as it does not contradict the user's stated intent."
+    },
+    {
+        "image_id": "eyx4bl",
+        "text": "ouch.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "- The text contains a series of statements that are likely meant to be sarcastic, as they are critical of the person being commented on in a way that is not straightforward.\n- The image, however, does not provide any clear evidence of sarcasm. It appears to be a simple, factual statement.\n- The combination of the text and the image suggests that the overall intent of the post is sarcastic, as the text is meant to be ironic and the image is meant to be a contrasting, factual statement."
+    },
+    {
+        "image_id": "c1nt47",
+        "text": "in case you don't understand this, the top comment was the guy who created this sub, but mods removed it and locked the thread.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text appears to be a random list of words without any clear intent to mock or critique.\n- The image caption seems to be a nonsensical statement, which is not a form of sarcasm as it lacks the intent to mock or contradict."
+    },
+    {
+        "image_id": "ejb7ji",
+        "text": "ooooooooooooooooooooooooooo",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is not inherently sarcastic. It appears to be a genuine comment praising RiceGum for breaking down stereotypes and being smart.\n- The visual cues of the person's expression do not provide clear evidence of sarcasm. The expression could be interpreted as a genuine reaction to the content of the post.\n- The principle of charity suggests that we should interpret the text and image at face value before labeling them as sarcastic.\n- The comment does not exhibit the characteristics of sarcasm, such as saying the opposite of what is meant with the intent to mock or critique."
+    },
+    {
+        "image_id": "c1l722",
+        "text": "im missing the joke but that’s probably because it’s late here.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The quote is a serious statement about the state of politics and the loss of humour among politicians. \n- The image is a straightforward representation of the person being quoted. \n- The text and image together do not provide clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "dwx6gt",
+        "text": "strike!\n\nedit: ah damn i didn't see the title. good job op \\^^",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The response is a clear example of sarcasm, as it contradicts the original statement about pronouns with a humorous and absurd alternative. The use of fish sticks and a bowling ball as pronouns is a deliberate attempt to mock or critique the original statement, which is a key characteristic of sarcasm."
+    },
+    {
+        "image_id": "e91ruz",
+        "text": "judy judy judy has done it again!",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The repetition of the name \"judy\" and the phrase \"has done it again!\" suggest a sarcastic tone, as it implies that the person is being criticized for a repeated behavior, which is a common characteristic of sarcasm."
+    },
+    {
+        "image_id": "cg4648",
+        "text": "yep, this is it chief",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image do not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement about the crops is straightforward and the image is a simple representation of a potato, which does not provide any visual cues that would suggest a sarcastic intent."
+    },
+    {
+        "image_id": "c2g2hu",
+        "text": "it..is killin'em",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement \"it..is killin'em\" is a literal description of the image, and the phrase \"bad hair\" is a straightforward observation. There is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "c2ap71",
+        "text": "do reposts from r/rareinsults count as reposts",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The comment is sarcastic because it is using humor to mock the original poster's behavior, suggesting that they are not acting in a mature manner. The commenter is also using hyperbole to emphasize the immaturity, stating that the original poster is the physical manifestation of a headache, which is an exaggeration for comedic effect."
+    },
+    {
+        "image_id": "damz1d",
+        "text": "frasier was such a good show",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a clear, unambiguous positive statement. The visual cues do not provide any evidence of sarcasm, such as a facial expression or body language that would contradict the verbal statement. The man's attire and the microphone suggest a serious or professional setting, which is consistent with a genuine appreciation for the show \"Frasier\"."
+    },
+    {
+        "image_id": "dao8pj",
+        "text": "this sounds like something a kindergartener would come up with.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The statement and the star rating together imply a mocking or sarcastic tone, suggesting that the content is not as good as it could be, which is a common form of sarcasm."
+    },
+    {
+        "image_id": "hoz960",
+        "text": "that’s not a quality insult. it’s a bookshelf that’s used for holding stuff other than books. it’s not uncommon. \n\n“hey look, this person has stuff other than books in their book bag.”",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is straightforward and factual, without any indication of intentional contradiction or mockery. The image shows a bookshelf with items other than books, which is a common occurrence. There is no clear evidence of sarcasm in the text or the image."
+    },
+    {
+        "image_id": "ghtq76",
+        "text": "don't know who either of them are, are we supposed to know?",
+        "llava-mm-label": "-1",
+        "llava-mm-reasoning": "- The comment in the image is a straightforward response to another user's comment. It does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm. The commenter seems to be genuinely responding to the original post, and there is no indication of a mocking or critical intent."
+    },
+    {
+        "image_id": "cgiysi",
+        "text": "what’s crazy is that now, there’s about 2.5 million words. and growing!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a hyperbolic exaggeration, which is a form of humor that does not necessarily imply sarcasm. The intent seems to be to emphasize the vastness of the English language, rather than to mock or critique it."
+    },
+    {
+        "image_id": "h8w3hf",
+        "text": "til that the past tense of tweeting is „twote“",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is not sarcastic because it is not intended to mock or critique. It is a light-hearted attempt at humor through wordplay. The image of the person's expression supports this interpretation, as it does not convey a sense of irony or mockery."
+    },
+    {
+        "image_id": "k1t16q",
+        "text": "did you just use your own insult",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"your own insult\" is a clear example of sarcasm, as it implies that the original post was intended to be insulting but is now being used in a sarcastic manner by the commenter. The tone of the comment is not genuinely insulting but rather mocking the original post's intent."
+    },
+    {
+        "image_id": "c2i0rh",
+        "text": "oedamn",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text contains a clear contradiction between the literal and the intended meaning, which is a key characteristic of sarcasm. The user's intent to provoke a reaction through the use of taboo subjects and the exaggerated nature of the statement are indicative of a sarcastic intent."
+    },
+    {
+        "image_id": "glmz94",
+        "text": "the reddit app is called apollo, for anyone wondering",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the image showing a person's disgust at the hygiene of the store and the user's self-deprecating username suggests a sarcastic commentary on the person's own behavior, implying that they are being overly critical of the store's hygiene."
+    },
+    {
+        "image_id": "i8rj0t",
+        "text": "thanks for the submission. unfortunately, it’s been removed for the following reasons:\n\nlol get pranked. \n\nit’s a dumb one but it fits the bill. good job.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The comment is sarcastic because it uses a seemingly innocuous action (checking in on someone) to imply a deeper, more critical commentary on Alex Jones' views and actions, which are likely to be controversial and not in line with the commenter's own views. The visual cues of the man with the megaphone also suggest a strong, assertive stance, which could be interpreted as a form of mockery or critique."
+    },
+    {
+        "image_id": "c2a1dm",
+        "text": "quality",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is not sarcastic because it is a straightforward, literal interpretation of the image.\n- The image depicts a humorous activity, but the text itself does not contain any elements of sarcasm, such as a contradiction between the literal and implied meaning or a mocking tone.\n- The text is more of a playful observation rather than a sarcastic comment."
+    },
+    {
+        "image_id": "c2a1dm",
+        "text": "quality",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is not sarcastic because it is a straightforward, literal interpretation of the image.\n- The image depicts a humorous activity, but the text itself does not contain any elements of sarcasm, such as a contradiction between the literal and implied meaning or a mocking tone.\n- The text is more of a playful observation rather than a sarcastic comment."
+    }
+]

@@ -1,0 +1,1784 @@
+[
+    {
+        "image_id": "eiapa3",
+        "text": "seriously woke up to this wtf, the year is ending like shit i guess",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement appears to be a genuine expression of surprise or frustration, rather than a sarcastic comment."
+    },
+    {
+        "image_id": "j3x4iv",
+        "text": "guess who just got neutered?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together imply a humorous intent, as the statement is a literal question that is juxtaposed with a visual cue that is commonly associated with a dog's post-surgical recovery. The use of the word \"neutered\" in a colloquial sense adds to the sarcastic tone of the post."
+    },
+    {
+        "image_id": "1629wud",
+        "text": "when the camel decides to ruin your day",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the text and the image suggests that the social media user is sarcastically commenting on the inconvenience of encountering a camel in such a close and unexpected manner. The phrase \"when the camel decides to ruin your day\" implies a sense of irony and exaggeration, which are typical characteristics of sarcasm."
+    },
+    {
+        "image_id": "fz5ldy",
+        "text": "i have a torn rotator cuff and he knows i cant push him off!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together suggest a genuine moment of rest and companionship between the person and the dog, rather than a sarcastic commentary on the situation. The person's injury is a clear contextual factor that would not be humorously exaggerated in a sarcastic manner."
+    },
+    {
+        "image_id": "bf7c0o",
+        "text": "a jerk pidgin; it thinks it's a bald eagle.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"a jerk pidgin\" is an unexpected and potentially sarcastic way to describe a bird, which is not a typical way to refer to a bird. The use of the word \"jerk\" to describe a bird's behavior is a form of anthropomorphism, attributing human characteristics to an animal, which is often done sarcastically to mock or criticize."
+    },
+    {
+        "image_id": "85fkak",
+        "text": "he graciously allowed her a corner of her own bed.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The visual cues show a peaceful coexistence between the dog and the cat, and the text describes a positive interaction. There is no indication of sarcasm in either the text or the image."
+    },
+    {
+        "image_id": "hiv605",
+        "text": "ah, a new bed for me",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together do not provide clear evidence of sarcasm. The statement is a simple, literal description of a situation, and the image depicts a common, non-ironic scene."
+    },
+    {
+        "image_id": "lgfcea",
+        "text": "the squirrels in my backyard have been stealing lightbulbs off my umbrella. i finally caught one of them in the act today!!",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together imply a humorous situation where the squirrels are behaving in an unexpected and absurd manner, which is a characteristic of sarcasm."
+    },
+    {
+        "image_id": "8ljrsj",
+        "text": "she has a whole farm where she can sit anywhere, yet she chooses to sit on the cat time and time again",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the text and the image suggests a situation that is meant to be humorous and sarcastic. The dog's position on the cat's back is not a typical resting position for a dog, and the repeated action of sitting on the cat implies a mocking or sarcastic intent."
+    },
+    {
+        "image_id": "g23kyw",
+        "text": "poor duck",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text \"poor duck\" is likely meant to be a genuine expression of concern or empathy for the duck's proximity to the cat. The visual cues do not suggest any intent to mock or critique the situation, as both animals seem to be coexisting peacefully. The cat's relaxed posture and the duck's calm demeanor indicate no signs of distress or danger."
+    },
+    {
+        "image_id": "k66c0w",
+        "text": "om-nom-nom",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The image itself does not provide clear evidence of sarcasm. The penguins' actions are straightforward and do not suggest a mocking or ironic intent.\n- The text, while it could be interpreted as a playful or sarcastic statement, does not inherently convey sarcasm. It could be a genuine statement of denial or a humorous exaggeration.\n- The principle of charity suggests that we should interpret the text at face value, and without additional context, it is not possible to definitively label the text as sarcastic."
+    },
+    {
+        "image_id": "hqoxrp",
+        "text": "bf: ‘you’re paranoid, the cat definitely doesn’t love me more.’ bf: closes door. cat:",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together suggest a situation where the person's significant other is being sarcastic by implying that the person is paranoid, which is a form of sarcasm. The image of the cat jumping up to the door could be interpreted as the cat showing affection towards the person, which contradicts the sarcastic statement."
+    },
+    {
+        "image_id": "18f2ax9",
+        "text": "heard a loud thump then crash sound from the living room. my tree has only been up for 5 hours. blue is fast.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the text and image implies that the situation is not ideal, as the Christmas tree has been knocked over by the cat. The phrase \"fast\" could be interpreted as a sarcastic comment on the cat's behavior, suggesting that the cat is too energetic or playful for its own good. The situation is not ideal, as the tree has been knocked over, and the cat's behavior is being humorously criticized."
+    },
+    {
+        "image_id": "1h14st",
+        "text": "tobias, a little jerk, but also the most interesting puppy in the world.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would be characteristic of sarcasm. The phrases used are more indicative of a playful tone rather than a sarcastic one. The visual cues in the image, such as the puppy's posture and the outdoor setting, do not contradict the text's apparent sincerity."
+    },
+    {
+        "image_id": "25niph",
+        "text": "dang it, cat. my pita bread[x-post from /r/catpictures]",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together suggest a playful and affectionate moment between the person and the cat, rather than a sarcastic or ironic commentary. The person's expression and the cat's action both indicate a light-hearted and non-sarcastic interaction."
+    },
+    {
+        "image_id": "c8gxst",
+        "text": "baby elephant goes too far upon first meeting",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the visual cues and the text suggests that the social media post is meant to be sarcastic. The visual cues imply a playful interaction, but the text implies a negative reaction to the elephant's behavior, which is a common trope in sarcastic posts."
+    },
+    {
+        "image_id": "16dq9p1",
+        "text": "ice cream (x-post from /r/perfecttiming)",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and the accompanying text are meant to be amusing and lighthearted, rather than sarcastic. The unexpected and whimsical nature of the scene, combined with the reference to a subreddit known for humorous timing, indicates that the post is not intended to be sarcastic."
+    },
+    {
+        "image_id": "nd3lc4",
+        "text": "cat burglar",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is not sarcastic because it is a literal statement. The image, however, is a humorous exaggeration that implies the cat is a thief, but it is not meant to be taken literally. The sign is a playful joke and not meant to be sarcastic."
+    },
+    {
+        "image_id": "i4bo77",
+        "text": "the best pillow is an (unwilling) friend",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement about the pillow is a literal description, and the phrase \"unwilling friend\" could be interpreted as a literal statement rather than a sarcastic one. The image of the cats does not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "7xa5dx",
+        "text": "your homework? never heard about it.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image itself does not provide any clear evidence of sarcasm. The cat's neutral expression and the fact that it is not looking at the camera suggest that it is not engaging with the viewer in a sarcastic manner. The text accompanying the image is a straightforward statement about homework, which does not contain any obvious sarcasm. The principle of charity suggests that we should interpret the text at face value, and there is no clear evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "9amktz",
+        "text": "left in the car for 30mins while i picked up a feed! not so good boy!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The tone of the text is straightforward and appears to be a genuine expression of disappointment or frustration. The image does not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "15xppjf",
+        "text": "mom heard a noise getting ready for bed and found the dog getting herself a drink",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and the accompanying text do not provide any clear evidence of sarcasm. The dog's actions are consistent with a dog trying to reach something inside a refrigerator, which is a common behavior. The text does not contain any obvious contradictions or mismatches between the visual and linguistic modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "daqrsi",
+        "text": "mom, he’s in my bed",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a literal description of a situation, and the image depicts a typical scenario for a pet cat. There is no evidence of intentional contradiction or mismatch between the text and the image that would suggest sarcasm."
+    },
+    {
+        "image_id": "fcawwc",
+        "text": "spent a week on this puzzle...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward description of an activity, and there is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "rojqk2",
+        "text": "there’s no room at the inn",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase \"there’s no room at the inn\" is a literal statement about the nativity scene, and there is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm. The phrase is commonly used in a literal sense and also as a metaphor, but without additional context, it is not possible to determine the intent of the user."
+    },
+    {
+        "image_id": "bx1n02",
+        "text": "thank u human",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together depict a typical and expected behavior of a cat, and there is no clear contradiction or mismatch between the visual and textual content that would indicate sarcasm. The statement is straightforward and positive, aligning with the visual content."
+    },
+    {
+        "image_id": "215cr9",
+        "text": "a cats evil plan!",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the cat's expression and the text suggests a humorous take on a cat's supposedly evil intentions, which is a common trope in internet humor. The text is a clear indicator of sarcasm, as it exaggerates the cat's actions into a grandiose plan, which is a typical characteristic of sarcastic statements."
+    },
+    {
+        "image_id": "p2ze53",
+        "text": "most efficient way to spread white hair over all your black clothes",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement seems to be a genuine attempt to provide a solution to a common problem, and the image does not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "jdhm3p",
+        "text": "you can’t find somewhere else to take a standing-up nap?!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The image, however, might suggest a humorous intent, as it shows a cat in a position that could be interpreted as if it were watching the video game."
+    },
+    {
+        "image_id": "2b1n6d",
+        "text": "all i wanted to do on vacation was catch a fish.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a simple, literal expression of the user's desire to catch a fish during their vacation. There is no indication of irony or contradiction that would suggest sarcasm."
+    },
+    {
+        "image_id": "1idaqk",
+        "text": "(x-post from r/pics) this bitch is taking so long to order",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The statement is sarcastic because it is an exaggeration for emphasis. The person is not literally referring to the menu board as a bitch, but rather using it as a metaphor for the slow service they are experiencing. The use of the term \"bitch\" is a form of hyperbole, which is a common way to express frustration or dissatisfaction."
+    },
+    {
+        "image_id": "11vkq6j",
+        "text": "my daughter just wanted to make a snow angel.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a playful and innocent moment between a dog and its owner. The person is not in a typical snow angel position, and the dog is not in a position that would create an angel shape. The text does not contain any obvious sarcasm or irony. The overall context of the image and text is consistent with a genuine, lighthearted moment rather than a sarcastic one."
+    },
+    {
+        "image_id": "bq901n",
+        "text": "we’re trying to teach our kitty to stay off the coffee table. this is his response.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The cat's posture and the comment's content are both indicative of a situation where the cat is being scolded for being on the table, but the cat's paw on the table and the comment's content are presented in a way that contradicts the scolding, which is a characteristic of sarcasm."
+    },
+    {
+        "image_id": "dde21p",
+        "text": "a story told in four parts:",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together depict a typical, non-sarcastic situation where a dog is hiding from a cat. The text is a straightforward description of the scene, and the visual cues reinforce the idea of a playful interaction between the two animals. There is no evidence of intentional contradiction or mockery, which are key elements of sarcasm."
+    },
+    {
+        "image_id": "14wbh8t",
+        "text": "yolo",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together suggest a humorous situation where the cat is behaving in a way that is typically human-like, such as knocking over a bowl of food. The text, which is a common trope in internet humor, implies that the cat is pretending to be a person, which is a form of sarcasm. The visual cues of the cat's posture and the spilled food reinforce the idea that the cat is intentionally mimicking human behavior, which is the essence of sarcasm."
+    },
+    {
+        "image_id": "pq8viy",
+        "text": "came home from work and found her where she shouldn't be",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together suggest a situation where the cat is in an unexpected place, which is a common trope for sarcastic comments. The cat's position on the counter and the presence of a knife block nearby imply that the cat is in a potentially dangerous or inconvenient location, which is a common setup for sarcastic remarks."
+    },
+    {
+        "image_id": "153dgkj",
+        "text": "pumpkin getting jumped by kiwi",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together are meant to be humorous and not sarcastic. The play on words in the text is a common form of humor that does not require the intent to mock or critique, which is the defining characteristic of sarcasm."
+    },
+    {
+        "image_id": "14an78p",
+        "text": "time to meal prep!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward statement with no indication of irony or contradiction. The image shows a dog in a common domestic situation, which is not inherently sarcastic. The combination of the two modalities does not provide clear evidence of sarcasm."
+    },
+    {
+        "image_id": "17s20je",
+        "text": "not working today, dude",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward complaint about the laptop, and the image shows a cat lying on the laptop, which is a common and innocuous occurrence. There is no clear evidence of intentional contradiction or mocking, which are the hallmarks of sarcasm."
+    },
+    {
+        "image_id": "73ru1s",
+        "text": "my cat steals my slipper anytime speakerphone is on.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a genuine, non-sarcastic situation where the cat is engaging in a typical feline behavior. The speakerphone's presence might be coincidental or unrelated to the cat's actions."
+    },
+    {
+        "image_id": "mq6gft",
+        "text": "i guess my puppy doesn’t know how big he is anymore",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The image shows a dog and a cat in a relaxed, non-threatening situation, which supports the idea that the comment is meant to be light-hearted rather than sarcastic."
+    },
+    {
+        "image_id": "15gdiq4",
+        "text": "and i wondered why my ginger won't grow",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward statement about a gardening issue, and there is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "fwlf4l",
+        "text": "this swan has been enforcing the stay at home order outside my house for the last three days...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm. The image shows a swan, which is not an unusual sight, and the text describes a humorous situation that could be interpreted as a light-hearted joke rather than sarcasm."
+    },
+    {
+        "image_id": "34viz6",
+        "text": "you're not doing the laundry today",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the cat's position on the washing machine and the text creates a humorous contradiction between the expected use of the appliance and the actual situation. The cat's presence is humorously suggesting that the person cannot do laundry, which is a form of sarcasm as it is saying the opposite of what is meant with the intent to mock or critique."
+    },
+    {
+        "image_id": "34viz6",
+        "text": "you're not doing the laundry today",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the cat's position on the washing machine and the text creates a humorous contradiction between the expected use of the appliance and the actual situation. The cat's presence is humorously suggesting that the person cannot do laundry, which is a form of sarcasm as it is saying the opposite of what is meant with the intent to mock or critique."
+    },
+    {
+        "image_id": "13i962h",
+        "text": "maximizing their screen time",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"maximizing their screen time\" is a sarcastic commentary on the bird's behavior, suggesting that the bird is engaging in human-like behavior by spending too much time on a screen. The image of the bird on the window sill, combined with the sarcastic text, implies a humorous critique of the bird's behavior, which is a form of sarcasm."
+    },
+    {
+        "image_id": "13i962h",
+        "text": "maximizing their screen time",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"maximizing their screen time\" is a sarcastic commentary on the bird's behavior, suggesting that the bird is engaging in human-like behavior by spending too much time on a screen. The image of the bird on the window sill, combined with the sarcastic text, implies a humorous critique of the bird's behavior, which is a form of sarcasm."
+    },
+    {
+        "image_id": "1qwn15",
+        "text": "had to stop on my way to work today for this...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a genuine situation where the driver had to stop for the dogs. There is no clear evidence of intentional contradiction or mismatch between the visual cues and the text that would indicate sarcasm. The driver's statement seems to be a straightforward description of an event that occurred during their commute."
+    },
+    {
+        "image_id": "jhamjv",
+        "text": "why do i even bother? 😅",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image do not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The text's sentiment is genuine, and the image shows a pet in a normal feeding situation without any indication of irony or mockery."
+    },
+    {
+        "image_id": "kqdipn",
+        "text": "our personal confetti machine",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image are consistent with each other, and there is no clear evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm. The statement is a straightforward description of the cat's behavior, and the image supports this description."
+    },
+    {
+        "image_id": "7935ml",
+        "text": "squirrels can be real jerks.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is a straightforward statement without any clear indication of irony or contradiction.\n- The image, while humorous, does not provide clear evidence of intentional contradiction or mockery, which is a key characteristic of sarcasm."
+    },
+    {
+        "image_id": "hvfcqg",
+        "text": "why lie down on the cat bed when you can use the fruit basket instead?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text's question implies a humorous or sarcastic tone, as it suggests that the cat should be in a fruit basket instead of a cat bed, which is an unexpected and absurd suggestion. The image's visual cues, with the cat in the cat bed, reinforce this interpretation by showing the cat in an unexpected place."
+    },
+    {
+        "image_id": "8qx386",
+        "text": "why do i even buy you shit?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is sarcastic because it is a direct contradiction between the expected positive experience of buying something and the actual negative experience of the user. The phrase \"why do I even buy you\" is a clear example of sarcasm, as it implies that the item is so poorly made or undesirable that the user questions their own decision to purchase it."
+    },
+    {
+        "image_id": "fv4czx",
+        "text": "i like pizza",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a simple, unambiguous declaration of liking pizza. There is no contradiction or intentional mockery that would indicate sarcasm."
+    },
+    {
+        "image_id": "bwu4ul",
+        "text": "he’s not allowed on the table",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a literal fact, and the image does not provide any visual cues that would suggest a sarcastic intent. The cat is indeed not allowed on the table, as indicated by the text."
+    },
+    {
+        "image_id": "15ybh98",
+        "text": "don't trust the cat busya! (translation in the comments)",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is not intended to be sarcastic. It is a playful and humorous statement, not a sarcastic one. The image of the cat is not providing any additional context that would suggest sarcasm. The overall tone of the post is light-hearted and not meant to be taken as a serious critique or mockery."
+    },
+    {
+        "image_id": "92tbr8",
+        "text": "dingo viciously mauled by lion",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a literal description of a dingo being attacked by a lion, which is not the case in the image. The image shows a peaceful interaction between a dog and a cat, which is not violent or aggressive. The text is meant to be taken literally, and there is no intentional contradiction or mismatch between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "cdwogo",
+        "text": "nobody tells him what to do!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The sign is a straightforward instruction, and there is no evidence of irony or contradiction that would indicate sarcasm. The message is clear and direct, and the image supports the message by showing the dog's leash, which is a visual cue that the owner is responsible for the dog's waste."
+    },
+    {
+        "image_id": "799zcq",
+        "text": "cats always know",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is not sarcastic because it is a straightforward statement about the person's feelings towards their cat.\n- The image does not contain any visual cues that suggest sarcasm. The cat is simply sitting on the jeans, which is a typical behavior for cats."
+    },
+    {
+        "image_id": "24smrz",
+        "text": "kittens...(x-post r/aww)",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a positive sentiment towards the kittens, with no clear evidence of intentional contradiction or mockery. The presence of the toilet paper roll might be seen as a humorous or ironic element, but it does not indicate sarcasm. The overall intent of the post seems to be to share a cute moment with the kittens, rather than to mock or critique them."
+    },
+    {
+        "image_id": "kavnn2",
+        "text": "who did this?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The cat's position and the presence of the Christmas tree suggest a cozy, holiday-themed setting. The text is a straightforward question, which is not indicative of sarcasm. The overall tone of the image and text is neutral and does not contain any obvious contradictions or mismatches that would suggest sarcasm."
+    },
+    {
+        "image_id": "1bprt1",
+        "text": "moments after she burped in my face.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together suggest a light-hearted, humorous moment rather than an intentional mockery or critique. The dog's expression and the person's statement do not indicate a clear, unambiguous intent to mock or critique. The situation appears to be genuinely amusing rather than sarcastic."
+    },
+    {
+        "image_id": "1q999q",
+        "text": "being jerks via cuteness: she needs to pee, but can't move due to sleeping fluffballs!",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies a sense of frustration or annoyance at the cats' behavior, which is a common sentiment when pets are being cute in a way that disrupts daily activities. The visual cues of the cats lying on the bed and one partially covering the other reinforce the idea that the cats are being cute in a way that might be seen as bothersome."
+    },
+    {
+        "image_id": "14bxrdv",
+        "text": "bought two frisbees so they wouldn't have to tug/fight over one.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together suggest a humorous situation where the dogs' owner has purchased two frisbees to prevent fighting, but the visual cues show the dogs playing together without any signs of conflict. The contradiction between the text and the image, along with the implied mockery of the dogs' behavior, indicates a sarcastic intent."
+    },
+    {
+        "image_id": "6qafu8",
+        "text": "no matter how many toys we buy him he still steals our children's...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward complaint without any obvious contradiction or mismatch between the text and the image. The cat's posture and the toy in its paws suggest that the cat is simply playing with the toy, which is a common behavior for cats. There is no clear evidence of intentional contradiction or mocking, which are the hallmarks of sarcasm."
+    },
+    {
+        "image_id": "32ce69",
+        "text": "my cat, the asshole. (sorry potato)",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is clearly sarcastic, but the image does not provide any visual cues that contradict the text. The cat's relaxed posture does not indicate any negative interaction with the person, and the presence of the laptop suggests a typical, non-sarcastic scenario where the cat is resting near its owner."
+    },
+    {
+        "image_id": "f5c96t",
+        "text": "siblings fighting",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The image itself does not provide any clear evidence of sarcasm. The cats' actions are natural and do not convey any intentional contradiction or mockery.\n- The text is not visible, so it is impossible to determine if it contains any sarcasm."
+    },
+    {
+        "image_id": "3i9374",
+        "text": "dachshund with a napoleon complex",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the dog's appearance and the phrase \"dachshund with a napoleon complex\" suggests a humorous intent, likely meant to be sarcastic. The phrase implies that the dog is behaving in a way that is disproportionate to its size, which is a form of exaggeration for comedic effect. The image itself does not provide clear evidence of sarcasm, but the text does."
+    },
+    {
+        "image_id": "1319k7v",
+        "text": "sigh.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is a straightforward description of the scene without any obvious contradiction or intent to mock. The tone is neutral and factual.\n- The visual cues in the image do not suggest any ironic intent. The dog's posture and the small dog's position are consistent with a peaceful interaction."
+    },
+    {
+        "image_id": "gur6pl",
+        "text": "and its ruined",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together depict a situation that is likely meant to be humorous rather than sarcastic. The cat's actions are not intended to mock or critique, but rather to showcase a common and amusing pet behavior. The text \"and its ruined\" is a straightforward description of the situation, without any intentional contradiction or mismatch between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "12isfsa",
+        "text": "thieving squirrels stole the candy filled easter eggs",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward description of an event, and the image depicts a squirrel with an egg, which is consistent with the text. There is no clear evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "138kp3b",
+        "text": "balthazar hates my plants",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any obvious sarcasm, and the image does not provide any clear evidence of intentional contradiction or mockery. The cat's actions could be interpreted as a natural curiosity or playfulness, but there is no indication that the cat has any specific hatred for the plants. The scattered dirt on the floor could be a result of the cat's playfulness or curiosity, but it does not provide evidence of sarcasm."
+    },
+    {
+        "image_id": "15vaeay",
+        "text": "get off my chair!!!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward command, and the image does not contain any clear visual cues that suggest sarcasm. The dogs' interaction could be interpreted as playful or aggressive, but it does not convey the intent to mock or critique, which is a key element of sarcasm."
+    },
+    {
+        "image_id": "jhntbo",
+        "text": "it took me a couple minutes to go outside and grab my delivery. some jerks beat me to it.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies a negative experience with the delivery service, and the image of the raccoons eating the food reinforces this negative experience by showing the food being consumed by animals instead of the intended recipient. The combination of the text and the image suggests a sarcastic commentary on the delivery service's efficiency."
+    },
+    {
+        "image_id": "all06r",
+        "text": "i put this in r/wellthatsucks, but i'm told it belongs here",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The headline is sarcastic because it implies that the cat's actions were intentional and malicious, which is an exaggeration for comedic effect. The image of the cat with the heart-shaped tag adds a humorous contrast to the seriousness of the headline, suggesting that the cat is not just a destructive force but also has a sentimental side, as indicated by the heart-shaped tag."
+    },
+    {
+        "image_id": "cpzzcm",
+        "text": "i'm cold, due !!!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is not sarcastic because it is an exaggeration for emphasis, which is a form of humor that is not intended to mock or critique. The image shows the cat's behavior, which is consistent with the text's description of the cat's desire for warmth. The overall tone of the post is light-hearted and humorous, rather than sarcastic."
+    },
+    {
+        "image_id": "8mo6o1",
+        "text": "say that again",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"say that again\" is typically used sarcastically to imply that the speaker is so surprised or confused by what was said that they need to hear it again. The visual cues of the cats' interaction, combined with the sarcastic phrase, strongly suggest that the post is meant to be sarcastic."
+    },
+    {
+        "image_id": "m79nyl",
+        "text": "my dad says he can never eat anything in peace.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together create a humorous situation where the dog's behavior is personified, suggesting that the dog is intentionally trying to ruin the person's meal, which is a sarcastic take on a common situation."
+    },
+    {
+        "image_id": "152t19s",
+        "text": "see anything down there?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text are not intended to be sarcastic. The text is a straightforward question about the contents of the toilet bowl, which is a common and innocent inquiry. The visual content of the image does not provide any clear evidence of sarcasm, as the cats' actions are typical feline behavior and not intended to mock or critique."
+    },
+    {
+        "image_id": "tusj2d",
+        "text": "when being an inconvenience is more important than being comfortable",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a direct contradiction, but without additional context or visual cues, it's unclear if the statement is meant to be sarcastic or not. The phrase could be interpreted as a genuine statement of the speaker's values or beliefs."
+    },
+    {
+        "image_id": "b3t9nt",
+        "text": "this adorable little asshole eating my sammich while standing on the goddamn piece of bread i gave him",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is sarcastic because it uses a combination of a cute animal and a human-like behavior to create a humorous contradiction. The bird is described as \"adorable\" but is also called an \"asshole,\" which is a sarcastic juxtaposition. The phrase \"goddamn piece of bread\" is an exaggeration for emphasis, which is a common element in sarcastic humor. The visual cues of the bird standing on the bread reinforce the sarcastic intent by showing the bird engaging in a human-like behavior."
+    },
+    {
+        "image_id": "7kcy4m",
+        "text": "lion king irl",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is a literal statement referencing the movie plot, which is not sarcastic in nature.\n- The image of the cat hanging from the cat tree is a common and literal depiction of a cat's behavior and does not contain any sarcasm."
+    },
+    {
+        "image_id": "b308nj",
+        "text": "cute little jerk chomping his mom's tail",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a hyperbolic description, which is a form of humor that exaggerates for effect. The visual cues in the image show a natural, playful interaction between the cub and its mother, which is not meant to be sarcastic or ironic."
+    },
+    {
+        "image_id": "apjnqd",
+        "text": "look at this jackass, blocking the road!!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward statement with no clear indication of irony or contradiction, and the image does not provide any additional context that would suggest sarcasm. The situation depicted in the image could be interpreted as humorous or ironic, but without additional context or tone, it is not possible to definitively determine if the post is meant to be sarcastic."
+    },
+    {
+        "image_id": "16pfz2t",
+        "text": "a little extra weight? no problem, dad!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The person's posture and the dog's position suggest a lighthearted and positive interaction, and the text's literal interpretation aligns with this interpretation."
+    },
+    {
+        "image_id": "15iblin",
+        "text": "banana thief",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase \"banana thief\" is a common idiomatic expression and is not meant to be taken literally. The image itself does not provide any additional context that would suggest the cat is stealing the banana. The text is likely meant to be humorous or affectionate, rather than sarcastic."
+    },
+    {
+        "image_id": "fyhory",
+        "text": "my fiancée spent all last weekend putting plants into the garden planters. this morning we come down after breakfast to this..",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together suggest a situation where the dog's actions are at odds with the fiancée's intentions, which could be interpreted as a form of sarcasm. The dog's actions are unexpected and humorous, and the contrast between the dog's actions and the fiancée's efforts to plant could be seen as a form of mockery or critique."
+    },
+    {
+        "image_id": "gzh5gq",
+        "text": "chomp!",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the cat biting the person's leg and the overlaid text \"chomp!\" creates a visual and textual cue that suggests a playful or sarcastic interaction between the person and the cat. The person is likely pretending to be bitten by the cat, and the cat is pretending to bite the treat, which is a common playful interaction between pets and their owners. The text \"chomp!\" is often used in a sarcastic context to imply that the person is being bitten, which adds to the overall sarcastic tone of the image."
+    },
+    {
+        "image_id": "1ckb1hg",
+        "text": "sparrow on its way to harass a house finch couple waiting patiently to use the bird feeder",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image does not provide any visual cues that would indicate sarcasm. The text, while it could be interpreted as sarcastic, does not have clear, unambiguous evidence of intentional contradiction or mismatch between modalities. Therefore, the overall intent of the post is not sarcastic."
+    },
+    {
+        "image_id": "1e510x",
+        "text": "a few months ago, but maggie insisted we were done with our game",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear evidence of sarcasm. It seems to be a straightforward description of a past event. The image shows a man and a dog, which could be related to the game mentioned in the text, but there is no clear indication of sarcasm. The presence of playing cards could suggest a game, but without additional context, it is not possible to determine if the game was sarcastic or not."
+    },
+    {
+        "image_id": "ejyvq9",
+        "text": "he actually fell asleep like this, with his mouth fully around my daughter’s arm and claws dug in. if she moved, he woke briefly to tighten his grip.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a close bond between the cat and the person, but there is no clear evidence of intentional contradiction or mismatch between the visual and textual modalities that would indicate sarcasm. The cat's behavior could be interpreted as affectionate or possessive, but there is no clear indication of mocking or criticizing the person."
+    },
+    {
+        "image_id": "18kq6yi",
+        "text": "he was just trying to enjoy his meal",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image does not contain any visual cues that suggest sarcasm. The text, however, could be interpreted as sarcastic if the intent is to mock the bird's situation or if it is meant to be humorous in a sarcastic way. Without additional context, it is difficult to determine the intent of the user."
+    },
+    {
+        "image_id": "11r6x2m",
+        "text": "they both just wanted to look out the window but never, under any circumstances, together.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is sarcastic because it humorously contradicts the visual cues. The cats are indeed together in the image, but the text implies that they are not together, which is a humorous exaggeration of their actual behavior."
+    },
+    {
+        "image_id": "17t9nt9",
+        "text": "coyote lays in my dog's bed.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together create a humorous situation where a coyote is in a dog's bed, which is an unexpected and amusing scenario. The text specifically states the coyote is in the dog's bed, and the visual cues show the dog looking out at the coyote, which implies a sense of surprise or disbelief. The overall intent of the post seems to be to create a humorous and sarcastic situation."
+    },
+    {
+        "image_id": "kk14w3",
+        "text": "margaret killed her christmas toy",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward, literal description of an event, and the image depicts a common scene of a dog playing with wrapping paper. There is no indication of intentional contradiction or mockery, which are the hallmarks of sarcasm."
+    },
+    {
+        "image_id": "10sui6c",
+        "text": "luna eats my live succulents so i got lego ones. i can't have nice things.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The situation described is a common, relatable experience for pet owners, and the humor is derived from the inconvenience of replacing live plants with Lego ones. The image reinforces this interpretation by showing the Lego succulents as a substitute for the damaged live plants."
+    },
+    {
+        "image_id": "6vh3p5",
+        "text": "nom",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm.\n- The statement is a straightforward, positive comment about the cat, which is consistent with the visual content of the image.\n- The woman's facial expression and body language do not suggest sarcasm; she appears genuinely pleased with the cat."
+    },
+    {
+        "image_id": "fon2hu",
+        "text": "meh. they die; they die.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is straightforward and does not contain any obvious contradictions or mismatches between the text and the image that would indicate sarcasm. The image itself does not provide any visual cues that would suggest a sarcastic intent."
+    },
+    {
+        "image_id": "9evz1p",
+        "text": "he attacc",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The text \"he attacc\" is nonsensical and does not convey a clear message or intent. The visual content shows a seemingly random object on the ground, which does not inherently suggest sarcasm. The person's feet and the railing are neutral elements. The overall context does not provide any indication of irony or contradiction that would be characteristic of sarcasm."
+    },
+    {
+        "image_id": "jwh4mw",
+        "text": "crumb bum sometimes walks on his injured paw, but mostly he uses it to boop jabroni",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The phrase \"boop jabroni\" is a casual, friendly insult, and the description of the dog's behavior is factual. The image shows a typical interaction between pets, which does not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "16iw5o5",
+        "text": "just keeping his buddy comfortable underneath",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together depict a genuine interaction between the two cats, with no indication of irony or mockery. The statement about keeping the other cat comfortable is a straightforward description of the scene."
+    },
+    {
+        "image_id": "1bihm5a",
+        "text": "we have three identical beds, but this pair won’t stop arguing over this particular one and refuse to let each other be comfortable in it",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text describes a human-like behavior of arguing over a bed, which is an anthropomorphism. The image, however, shows a peaceful scene of a cat and a dog sharing a bed without any signs of conflict. The text and image do not match in terms of the situation described, which suggests that the text is not meant to be taken literally. The image does not provide any evidence of sarcasm, as it depicts a typical and non-confrontational scene."
+    },
+    {
+        "image_id": "14fr993",
+        "text": "heron requisitions man’s car",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is a pun that implies the heron has taken control of the car, which is an absurd and humorous situation. The man's expression and the heron's position on the car further suggest that the post is meant to be sarcastic."
+    },
+    {
+        "image_id": "18zgcjg",
+        "text": "goaterus is trying to provoke marshmallow who has the patience of buddha",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"who has the patience of buddha\" is a common idiomatic expression used to describe someone who is very patient. The juxtaposition of the impatient goaterus with the patient marshmallow, along with the idiomatic expression, suggests a sarcastic commentary on the situation, as it implies that marshmallow's patience is so great that it is almost superhuman, which is an ironic contrast to the impatient goaterus."
+    },
+    {
+        "image_id": "gvsncr",
+        "text": "neighbour's dog sitting on her buddy in full beanbag style.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a light-hearted and amusing situation, but there is no clear evidence of intentional contradiction or mockery that would indicate sarcasm. The scene is presented as it is, without any additional context or tone that would suggest a sarcastic intent."
+    },
+    {
+        "image_id": "irk5u8",
+        "text": "he dosen't know why he did it either.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text's grammatical error and the cat's neutral expression suggest a lack of intentional contradiction or mockery, which are key elements of sarcasm. The image's content does not provide any clear evidence of sarcasm, and the text's error could be interpreted as a genuine mistake rather than an intentional contradiction."
+    },
+    {
+        "image_id": "88j8yj",
+        "text": "this freaking squirrel stole my friend’s bagel...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a literal description of an event, and there is no evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm. The tone of the text is consistent with a genuine expression of frustration or annoyance, which is not a characteristic of sarcasm."
+    },
+    {
+        "image_id": "hpsgs9",
+        "text": "sausage",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together create a humorous situation that is meant to be sarcastic. The cat's actions are anthropomorphized, and the text plays on the idea of the cat being a thief, which is a human trait. The overall intent of the post is to be sarcastic and amusing."
+    },
+    {
+        "image_id": "hb2g1q",
+        "text": "found him laying in the bowl of grapes. he smushed them all. he is proud of himself.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together create a humorous and endearing scene, but there is no clear evidence of intentional contradiction or mockery, which are the defining characteristics of sarcasm. The text is more likely to be interpreted as a playful exaggeration rather than an attempt at sarcasm."
+    },
+    {
+        "image_id": "xh1yk7",
+        "text": "my puppy decided he also wanted a piece of my moms birthday cake",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together suggest a playful and innocent interaction between the puppy and the woman. The puppy's actions are not intended to mock or criticize the situation, but rather to engage with the cake and the woman. The overall tone of the post is positive and does not exhibit the intentional contradiction or mismatch between modalities that is characteristic of sarcasm."
+    },
+    {
+        "image_id": "9cfudu",
+        "text": "how i look when i give someone the middle finger",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together suggest a humorous exaggeration of the bird's posture to mimic a human gesture of defiance or contempt, which is a form of sarcasm."
+    },
+    {
+        "image_id": "i2ofd6",
+        "text": "elijah, you weigh 12 pounds and earn approximately negative 100 dollars a month. why are you taking up 75% of the desk chair?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is sarcastic because it implies that the cat is intentionally occupying the chair in a disproportionate manner, which is an exaggeration for comedic effect. The image shows the cat lying on the chair, which is a common and innocent behavior for cats. The combination of the text and the image suggests that the comment is meant to be sarcastic."
+    },
+    {
+        "image_id": "ecnf5j",
+        "text": "saw this on facebook...he hit a fish. 🐟",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The use of the word \"hit\" in the context of catching a fish is unusual and could be interpreted as a sarcastic commentary on the fishing experience."
+    },
+    {
+        "image_id": "fk30kb",
+        "text": "so my cat did this to me...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear evidence of sarcasm, and the image seems to depict a genuine situation. The phrase \"so my cat did this to me...\" is often used in a literal sense to describe a humorous or unexpected event. The image of the scratch on the arm could be interpreted as a literal description of the situation without any intent to mock or critique."
+    },
+    {
+        "image_id": "ebgx29",
+        "text": "this jerk helping me wrap christmas presents.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image itself does not provide any clear evidence of sarcasm. The cat is lying on the paper, and the scissors are placed nearby, but there is no indication of the cat's intent or the context of the situation. The text, however, seems to be a genuine statement about the cat's behavior, without any obvious sarcasm. The phrase \"this jerk helping me\" is a common way to describe a pet's behavior when they are inadvertently causing inconvenience, but it is not intended to be sarcastic."
+    },
+    {
+        "image_id": "140qvd6",
+        "text": "i'm eatin' here!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image itself does not provide any clear evidence of sarcasm. The bird's behavior seems natural, and there is no indication that the bird is mocking the viewer or the situation. The text \"i'm eatin' here!\" is a straightforward statement, and there is no indication of irony or contradiction that would suggest sarcasm. The overall context of the image and text does not provide any evidence of sarcasm."
+    },
+    {
+        "image_id": "938o8i",
+        "text": "i thought this belonged here",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The mother dog's expression could be interpreted as a natural behavior, and the puppy's proximity is typical for a young dog to stay close to its mother. The text seems to be a straightforward statement about the placement of the image, which does not inherently suggest sarcasm."
+    },
+    {
+        "image_id": "ami3uf",
+        "text": "i think it’s safe to say that my lemon thyme is dead",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward observation about the plant's condition, and there is no indication of irony or intent to mock."
+    },
+    {
+        "image_id": "g1exwf",
+        "text": "he wasn’t happy with the quarantine diet, i guess. 😂",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any obvious contradictions or mismatches between the modalities. The emoji and the image together suggest a light-hearted and humorous tone, which is not indicative of sarcasm. The text is straightforward and does not contain any elements that would suggest an intent to mock or critique."
+    },
+    {
+        "image_id": "3dekrh",
+        "text": "i took a picture of my cat",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a simple statement of fact, and the image depicts a common scene of a cat resting. There is no contradiction or mismatch between the text and the image that would suggest sarcasm."
+    },
+    {
+        "image_id": "1zc10n",
+        "text": "oh, i'm sorry, were you trying to read?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement seems to be a genuine apology or concern about the cat's presence, which is not a typical characteristic of sarcasm. The visual cues, such as the cat's relaxed posture and the person's focused gaze on the tablet, do not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "1aw0q9a",
+        "text": "she knew he was under there, she just didn’t care",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies a deliberate disregard for the cat's comfort, which is a key characteristic of sarcasm. The cat's position under the blanket is typically associated with warmth and comfort, but the phrase suggests a lack of concern for the cat's situation."
+    },
+    {
+        "image_id": "jg1juq",
+        "text": "can’t have nice things",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text \"can't have nice things\" is a common phrase used sarcastically to imply that someone is not allowed to have something good or enjoyable. The image of the cat on the plant, which is often considered a nuisance, is a visual representation of this phrase. The cat's relaxed posture on the plant adds to the humorous contradiction between the expected behavior of a pet and the actual behavior of the cat."
+    },
+    {
+        "image_id": "14bhvxw",
+        "text": "that one roommate who hates having nice things",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a humorous situation rather than an intentional mockery or contradiction. The visual cues are consistent with a light-hearted joke about a roommate's habits, rather than a sarcastic commentary on their character."
+    },
+    {
+        "image_id": "ghuxiu",
+        "text": "just came home to this and i don’t even own chickens",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies a sense of irony or contradiction, which is a key characteristic of sarcasm. The speaker's statement that they do not own chickens, combined with the image of chickens outside their house, creates a humorous situation that could be interpreted as sarcastic."
+    },
+    {
+        "image_id": "dlh6wa",
+        "text": "music critic",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The image itself does not provide clear evidence of sarcasm. The cat's behavior could be interpreted as genuine curiosity or interest, and the person's focused expression suggests they are engaged in playing the instrument.\n- The text overlaid on the image does not contain any obvious sarcasm. It seems to be a straightforward description of the scene.\n- The text provided separately does not contain any obvious sarcasm either. It describes the scene in a straightforward manner without any indication of irony or contradiction."
+    },
+    {
+        "image_id": "ae7fk0",
+        "text": "this is why i got sleep paralysis last night.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement seems to be a genuine explanation of a personal experience, and the image appears to be a straightforward depiction of a bedroom scene."
+    },
+    {
+        "image_id": "ihe079",
+        "text": "chomp",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is a literal statement that contradicts the visual content. It does not contain any intentional contradiction or mismatch between the modalities that would indicate sarcasm. The person's expression is likely a genuine reaction to the turtle's proximity, rather than an attempt at humor."
+    },
+    {
+        "image_id": "mbzcty",
+        "text": "first days of the national toilet paper shortage march 2021, colorized.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a light-hearted commentary on the toilet paper shortage, rather than an intent to mock or critique. The visual cues of the cat and the scattered toilet paper are meant to be amusing, rather than sarcastic. The text provides factual information, and the image adds a humorous twist, but there is no clear evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "6ue2s8",
+        "text": "15th century cat leaves paw prints on owner's manuscript",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The paw prints are a visual cue that suggests a playful or curious interaction with the manuscript, but the text itself does not contain any clear evidence of sarcasm. The content of the text is not inherently sarcastic, and there are no linguistic cues that would indicate a sarcastic intent."
+    },
+    {
+        "image_id": "mga257",
+        "text": "i think i witnessed a murder...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image do not provide any clear evidence of sarcasm. The statement is a direct, serious expression, and the image of the cat does not suggest any ironic intent."
+    },
+    {
+        "image_id": "144yr8f",
+        "text": "why we can’t do fun things",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any obvious sarcasm indicators such as ironic phrasing or a contradiction between the literal and implied meaning. The image shows a cat on a puzzle, which is a common and innocuous scene. The combination of the text and image does not provide strong evidence of sarcasm."
+    },
+    {
+        "image_id": "1c1lkat",
+        "text": "this is why we can't have nice blinds.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is not sarcastic because it is a literal complaint about the blinds. The image does not provide any clear evidence of intentional contradiction or mismatch between the text and the visual cues. The cat's presence on the cat tree is a common and positive sight, and there is no clear indication of a mocking or ironic intent."
+    },
+    {
+        "image_id": "cnf1s6",
+        "text": "from the national aquarium of new zealand!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The text seems to be a straightforward description of the penguins' behavior, and the image depicts the penguins in a natural environment. There is no indication of intentional contradiction or mockery that would suggest sarcasm."
+    },
+    {
+        "image_id": "k4ki29",
+        "text": "everyone complaining about cat scratches, this is what happens when a dog accidentally scratches you.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement is a light-hearted attempt at humor, and the image seems to be a genuine depiction of a scratch. The combination of the two does not suggest a sarcastic intent."
+    },
+    {
+        "image_id": "bffu8k",
+        "text": "oh! what a lovely little garden! be a shame if someone were to...*crush them all*",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement seems to be a genuine concern for the plants, and the use of the word \"crush\" is not a typical sarcasm indicator."
+    },
+    {
+        "image_id": "juytm3",
+        "text": "kitty? what kitty?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The dog's questioning of the cat's presence, combined with the visual cues of the dog's body language and the cat's gaze, creates a humorous contradiction between the dog's words and its actions, which is characteristic of sarcasm."
+    },
+    {
+        "image_id": "ghe0vx",
+        "text": "ah yes, the classic throat paw.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The comment does not contradict the visual content in a way that suggests sarcasm. It is a straightforward observation that aligns with the image's content."
+    },
+    {
+        "image_id": "16b5acv",
+        "text": "oh for the love of dog",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a positive, affectionate moment between the person and the dog. The phrase \"oh for the love of dog\" is a common expression of affection for one's pet. The person's posture and the dog's standing position indicate a moment of bonding or playfulness, rather than a sarcastic commentary. The overall tone of the image and text is light-hearted and affectionate, which is not indicative of sarcasm."
+    },
+    {
+        "image_id": "khuhqo",
+        "text": "now i know why my plant died.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward statement with no clear evidence of sarcasm. The image shows a cat resting in a wicker basket, which is a common and innocuous behavior for a cat. There is no contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "iw7pjc",
+        "text": "this is the only reason",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together suggest a deliberate attempt to mock or criticize the viewer, which is the defining characteristic of sarcasm. The use of a strong expletive and the direct statement of disdain are clear indicators of an intent to mock or critique, which is not present in a genuine or humorous post about a cat."
+    },
+    {
+        "image_id": "9g2cry",
+        "text": "i don't want to be rescued",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together create a scene that is meant to be humorous and sarcastic. The parrot's behavior is anthropomorphized, and the use of expletives is a common trope in humor to create a comedic effect. The situation is not a literal emergency, but rather a playful exaggeration of a common scenario where a pet might be in a precarious position. The overall tone of the image and text is one of light-heartedness and irony, which are key indicators of sarcasm."
+    },
+    {
+        "image_id": "djfdog",
+        "text": "get a kitten they said. it’ll be fun they said",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase is not intended to be sarcastic. It is a well-known and often-used expression of surprise or disillusionment about the realities of pet ownership. The phrase is not meant to mock or criticize the person who said it, but rather to express a common experience of discovering that something is not as easy or enjoyable as it was initially presented."
+    },
+    {
+        "image_id": "elp3g7",
+        "text": "are u making picture of my???",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase is a straightforward request for confirmation of a photo being taken, and there is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "1yx1sd",
+        "text": "meet my dog kaydence. she managed to knock over a 50lb tub of food that was on top of her cage while she was inside.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together suggest a genuine description of an accident involving a dog and a large tub of food. There is no clear evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm. The text is straightforward and factual, and the image supports this narrative."
+    },
+    {
+        "image_id": "5iwmr2",
+        "text": "we made ourselves a cat door",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The cat door is a common and practical solution for pet owners, and the cat's behavior is consistent with typical feline curiosity. The text is straightforward and does not contain any obvious contradictions or mismatches between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "khgnbv",
+        "text": "he first intimidated us and then stole my dad's burger!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The situation depicted is a light-hearted and amusing one, but it does not contain the intentional contradiction or mismatch between the literal and implied meaning that is characteristic of sarcasm. The text's narrative tone and the image's depiction of the lizard's actions suggest a genuine attempt at humor rather than an ironic or sarcastic one."
+    },
+    {
+        "image_id": "dnj2vj",
+        "text": "that moment before the disaster",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together create a humorous situation where the cat's presence is humorously exaggerated as a potential disaster. The visual cues of the cat among various objects and the text's implication of a disaster align to create a sarcastic commentary."
+    },
+    {
+        "image_id": "beogfe",
+        "text": "cute little jerk chomps mom's tail",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together depict a natural behavior of a young lion cub, which is not intended to be sarcastic. The phrase \"cute little jerk\" could be interpreted as a playful or affectionate term for the cub, rather than a sarcastic comment. The visual cues in the image support this interpretation, showing a typical interaction between a mother lion and her cub."
+    },
+    {
+        "image_id": "apbk68",
+        "text": "the cat was mad we weren't home to feed her dinner, and got back at us by ripping apart a pack of bagels and taking a tiny bite out of each one.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the cat's actions and the text implies a humorous situation where the cat is anthropomorphized, acting out in a way that is typically human-like. The cat's behavior is exaggerated for comedic effect, and the text reinforces this by suggesting a deliberate act of revenge. The visual cues of the cat with a bagel in its mouth and the torn packaging further support the sarcastic intent."
+    },
+    {
+        "image_id": "ibcxxb",
+        "text": "nom",
+        "llava-mm-label": "-1",
+        "llava-mm-reasoning": ""
+    },
+    {
+        "image_id": "nua3x1",
+        "text": "i had to put out a decoy keyboard so my solar keyboard could charge",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies a humorous inconvenience, and the image of the cat next to the keyboard adds a layer of irony, suggesting that the cat might be the cause of the need for a decoy keyboard. The cat's presence on the windowsill, which is a common place for cats to rest, adds to the sarcastic tone by implying that the cat is the one who needs to be charged, not the keyboard."
+    },
+    {
+        "image_id": "4bvroj",
+        "text": "a \"friendly\" neck bite",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a playful interaction between the cats, which is not meant to be sarcastic. The text is a hyperbolic statement that is not meant to be taken literally, but rather to emphasize the playful nature of the cats' interaction. The visual cues of the cats' body language and the open mouth indicate a friendly and non-threatening interaction."
+    },
+    {
+        "image_id": "dushab",
+        "text": "why won't you get in your basket? you little ignorant bitch.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text contains an insult, which is not a characteristic of sarcastic language. The phrase \"why won't you get in your basket?\" is a common idiomatic expression, but without additional context, it's unclear if it's meant sarcastically or not. The image shows a cat sitting on a couch, which is not in a basket."
+    },
+    {
+        "image_id": "1336xks",
+        "text": "“well…? that butthole’s not gonna lick itself.”",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase is not a typical sarcastic comment, as it lacks the intentional contradiction or mismatch between the literal and implied meaning that is characteristic of sarcasm. The phrase is more likely to be interpreted as a literal statement or a humorous exaggeration rather than a sarcastic remark."
+    },
+    {
+        "image_id": "1ilpol",
+        "text": "i (also) spent good money on a new dog bed... [first post]",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a simple, literal description of a purchase without any indication of irony or contradiction."
+    },
+    {
+        "image_id": "6wgoc2",
+        "text": "saw this online and thought these cats fit right in here...",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together create a visual and textual pun that plays on the idea of the cats being a \"bad idea\" in the context of the shoji doors. The cats' position on the door is a literal representation of the phrase, and the image is meant to be humorous by playing on the unexpected behavior of the cats. The text is a sarcastic commentary on the situation, suggesting that the person who bought the shoji doors did not anticipate the cats' behavior."
+    },
+    {
+        "image_id": "k2np0j",
+        "text": "rico's first christmas",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a simple, positive statement with no indication of irony or contradiction. The image depicts a common holiday scene with no obvious signs of sarcasm. The cat's expression and the overall setting suggest a genuine, positive moment."
+    },
+    {
+        "image_id": "gax1y3",
+        "text": "my cat tried to grab my atention while i was on the pc... then he grabbed my leg",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any obvious contradictions or mismatches between the literal meaning and the intended meaning that would suggest sarcasm. The statement appears to be a straightforward, non-ironic description of a moment with the cat."
+    },
+    {
+        "image_id": "hq568a",
+        "text": "photographic evidence of my boyfriend’s cat trying to steal my cookie",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and the text together suggest a humorous situation where the cat is stealing a cookie, which is an unexpected and amusing behavior for a cat. The text's tone implies a light-hearted attempt to document the cat's mischievous act, which is a common form of sarcasm where the speaker says the opposite of what is meant to mock or criticize."
+    },
+    {
+        "image_id": "139kesz",
+        "text": "the overlords have infiltrated the white house",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is not inherently sarcastic. It could be interpreted as a genuine commentary on the presence of a cat in the White House. The image provides a literal representation of the statement, which does not inherently suggest sarcasm. The principle of charity suggests that we should interpret the text and image at face value before labeling it as sarcastic."
+    },
+    {
+        "image_id": "bi7vuc",
+        "text": "mods are asleep... (u know what to do) ... animal being bro",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is too ambiguous and lacks clear evidence of intentional contradiction or mismatch between modalities to confidently label it as sarcastic."
+    },
+    {
+        "image_id": "15aczel",
+        "text": "koi invades turtle's personal space",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together suggest a humorous or sarcastic intent, as the koi's behavior is exaggerated and the situation is presented in a way that implies a deliberate invasion of personal space."
+    },
+    {
+        "image_id": "cr4q4m",
+        "text": "mr. steal your fries",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the visual cues and the text suggests a humorous intent, likely meant to be sarcastic. The crow is not actually stealing the fries, but the phrase implies that it is, which is a contradiction between the visual and the text. The phrase \"mr. steal your fries\" is a play on words, which is a common form of sarcasm."
+    },
+    {
+        "image_id": "12ivqnc",
+        "text": "the joys of wfh",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is not sarcastic in nature. It is a straightforward statement about the benefits of working from home. The cat's presence on the keyboard is a light-hearted and relatable moment for those who work from home and have pets."
+    },
+    {
+        "image_id": "ikse38",
+        "text": "we bought our small dog with incontinence a small bed to help her sleep better and our old lab has claimed it for himself",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is straightforward and does not contain any obvious sarcasm. The visual cues, however, add a layer of humor that could be interpreted as sarcastic, as it shows a large dog occupying a small bed meant for a smaller dog. The overall intent of the post seems to be humorous rather than sarcastic."
+    },
+    {
+        "image_id": "13wbltv",
+        "text": "sharing an ice cream at the beach",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a candid, joyful moment between a mother and her child. The baby's expression could be interpreted as a natural reaction to the taste or texture of the ice cream, rather than a sarcastic commentary on the situation. The woman's smile and the overall setting of the image imply a genuine, positive experience."
+    },
+    {
+        "image_id": "6gl67v",
+        "text": "i'm not saying that my dog should respect the cat a little bit more, but....",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is meant to be sarcastic, as it sets up a situation where the dog is sitting on the cat, which is an unexpected and humorous sight. The visual cues confirm the setup for the joke, as the dog is indeed sitting on the cat."
+    },
+    {
+        "image_id": "g1vrnl",
+        "text": "what’s this? something you’re working on?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any obvious sarcasm or irony. It appears to be a genuine question, likely meant to engage with the viewer or to share a moment of curiosity. The visual content of the image, featuring a cat on a table, does not provide any clear evidence of sarcasm either. The overall tone of the post is neutral and seems to be an attempt to share a light-hearted moment."
+    },
+    {
+        "image_id": "1w7fen",
+        "text": "it's a love-hate relationship. he has the hate.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement is a straightforward expression of a common sentiment about the relationship between a pet and its owner, where the pet may have a mix of love and dislike for the owner. The visual cues in the image, such as the cat's paw on the person's hand, do not provide any additional context or contradiction that would suggest sarcasm."
+    },
+    {
+        "image_id": "ebg447",
+        "text": "where is this picture taken?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image depicts a scene of two dogs resting on a chair, which is a common and innocent sight. There is no clear evidence of sarcasm in the visual content. The dogs appear to be at ease, and the setting is ordinary."
+    },
+    {
+        "image_id": "24ezyq",
+        "text": "i was using my laptop in bed when this guy decided to lay on my face",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together suggest a genuine, affectionate moment between the person and their pet, rather than an intent to mock or criticize."
+    },
+    {
+        "image_id": "eweyvi",
+        "text": "i asked rufio for a shake. i got pure sass instead.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is a clear example of sarcasm, as it implies a mismatch between the speaker's expectation and the actual outcome. The use of the term \"sass\" is a misspelling that adds to the sarcastic tone."
+    },
+    {
+        "image_id": "ekgzlo",
+        "text": "every meal",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the cat's interest in the food and the text suggests a humorous commentary on the cat's behavior, which is a form of sarcasm. The text implies that the cat is always interested in food, which is an exaggeration for comedic effect."
+    },
+    {
+        "image_id": "1hintz",
+        "text": "why i hate foxes",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The statement \"why i hate foxes\" is a clear expression of dislike, which is often used sarcastically to mock or critique the subject of the statement. The image of the trash on the ground could be interpreted as a metaphor for the mess foxes can create, which is a common complaint about them. The combination of the text and the image might suggest a sarcastic commentary on the situation, as the person might be implying that the foxes are the cause of the mess."
+    },
+    {
+        "image_id": "8nryfh",
+        "text": "i guess i'm done with my coffee then..",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward statement with no clear evidence of sarcasm. The image shows a cat in a typical setting, and there is no indication of any intentional contradiction or mismatch between the text and the visual cues that would suggest sarcasm."
+    },
+    {
+        "image_id": "t4dd7s",
+        "text": "i posted this is r/huskies but i think it belongs here too!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement appears to be a light-hearted comment about the appropriateness of the image for a different subreddit, which does not suggest a sarcastic intent."
+    },
+    {
+        "image_id": "edni8l",
+        "text": "tis the season",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The phrase \"tis the season\" is a straightforward statement of fact, and there is no clear evidence of intentional contradiction or mockery.\n- The image of the cat and the Christmas tree is a common and innocuous scene, and there is no indication of sarcasm in the visual content."
+    },
+    {
+        "image_id": "k8tsoo",
+        "text": "just make yourself comfortable, dweezil",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The visual cues suggest a playful or humorous intent, while the text itself does not provide clear evidence of sarcasm. The phrase is commonly used in a non-sarcastic context, and without additional context, it's reasonable to assume it's meant sincerely."
+    },
+    {
+        "image_id": "g8inpv",
+        "text": "got my first succulent. it lasted 8 hours.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement is straightforward and seems to be a genuine commentary on the lifespan of the succulent plant. The image, while humorous, does not provide any additional evidence of sarcasm."
+    },
+    {
+        "image_id": "12xp9mu",
+        "text": "couch wasn't comfy enough",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement \"couch wasn't comfy enough\" could be interpreted as a genuine statement of the dog's preference for a different resting spot, rather than a sarcastic commentary on the couch's comfort."
+    },
+    {
+        "image_id": "7dqbol",
+        "text": "of all places",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together are meant to be humorous, but they do not exhibit the characteristics of sarcasm. Sarcasm typically involves saying the opposite of what is meant with the intent to mock or critique. In this case, the image and text are more likely to be a light-hearted joke about the cat's behavior and the situation it has created."
+    },
+    {
+        "image_id": "hleuj6",
+        "text": "he has seen some stuff",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is not inherently sarcastic and seems to be a straightforward statement. The phrase \"some stuff\" is commonly used in a literal sense, and there is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "hjina4",
+        "text": "this poor little guy looking for his babies after shooing shithead neighbors shithead cat off 💔💔💔",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The phrase \"shooing shithead neighbors shithead cat off\" could be interpreted as a literal action or as a metaphorical expression of frustration. The use of multiple exclamation marks suggests strong emotion, but without clear evidence of ironic intent, it is not possible to label this as sarcastic."
+    },
+    {
+        "image_id": "12s945e",
+        "text": "typical cats behaviour :)",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward observation about cats' behavior, which is not inherently sarcastic. The image itself shows a common scene of cats lounging, which is not meant to be sarcastic. The user's intent seems to be to share a relatable moment with fellow cat lovers, which is not a sarcastic intent."
+    },
+    {
+        "image_id": "jomfsx",
+        "text": "life with leo",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The cat's expression seems genuine and not intended to mock or critique. The text \"life with leo\" could be a simple statement about the cat's life or a humorous comment, but it does not contain any obvious contradiction or mismatch between the visual and textual modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "16h0jpi",
+        "text": "my dear cat quinn trying to eat my food",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The image shows a cat in a playful or curious pose, which is consistent with the text's description. The overall tone of the text and image is light-hearted and not indicative of sarcasm."
+    },
+    {
+        "image_id": "efiffg",
+        "text": "temper-pedic dog bed for our large dog",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward product description, and the image shows the product in use, which aligns with the text. There are no clear indicators of sarcasm, such as a tone of voice or facial expression that would suggest the opposite of what is being said."
+    },
+    {
+        "image_id": "125imyx",
+        "text": "violent cuddles lol",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase \"violent cuddles lol\" is not a clear example of sarcasm. It could be interpreted as a playful or humorous statement without the intent to mock or critique. The phrase is not a direct contradiction or mismatch between modalities, and without additional context, it's difficult to determine the intent of the user with certainty."
+    },
+    {
+        "image_id": "j4r0go",
+        "text": "“mom? halp”",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a misspelling of \"mom? help,\" which is a common phrase used by cats in internet memes to represent a cat's desire for assistance. The image shows a cat in a cage, which is a common setting for such memes. The overall intent of the post is to be humorous and relatable, rather than to mock or criticize."
+    },
+    {
+        "image_id": "b4rb72",
+        "text": "camouflage is at 💯. can’t see me, don’t touch me.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward description of camouflage, and the image does not contain any visual elements that would suggest a sarcastic intent. The text and image do not contradict each other, and there is no clear evidence of intentional contradiction or mismatch between the modalities."
+    },
+    {
+        "image_id": "3w68jm",
+        "text": "you stay on your side and i'll stay on mine",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward statement with no clear evidence of sarcasm. It is a simple, direct statement with no contradictory or ironic intent. The visual content of the image, with the squirrels on the tree, does not provide any additional context that would suggest sarcasm. The overall intent of the post appears to be a straightforward, non-sarcastic statement."
+    },
+    {
+        "image_id": "13k8g7i",
+        "text": "winnie using her brother as a seat",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is meant to be humorous and is not intended to be sarcastic. The visual cues do not contradict the text, as the dogs are indeed lying on the couch, but the interpretation of the dogs' positions is a playful exaggeration rather than a literal contradiction."
+    },
+    {
+        "image_id": "1nng38",
+        "text": "this is a picture of my friend being farted on by my cat.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a light-hearted, humorous situation rather than an intentional mocking or critique. The man's expression and the cat's position are not indicative of a sarcastic intent, but rather a playful and exaggerated depiction of a common pet behavior. The text itself is not contradictory or sarcastic in nature; it is a straightforward statement of a humorous situation."
+    },
+    {
+        "image_id": "13zz53q",
+        "text": "you’re in my spot",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase \"you're in my spot\" is typically used in a literal sense to express annoyance or frustration. The image shows a cat lying on a cat tree, which is a common place for cats to rest and play. The cat appears to be relaxed and comfortable, which suggests that the cat is not being displaced by another person. The phrase is not being used in a sarcastic sense, as there is no clear contradiction or mocking intent in the image."
+    },
+    {
+        "image_id": "8yk8r8",
+        "text": "i wondered why it was the only plant not to flower this summer.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The image, while humorous, does not provide enough evidence to determine the intent of the social media post."
+    },
+    {
+        "image_id": "7i6xur",
+        "text": "he's slowly pushing it all off the table, while pretending to sleep.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The cat's actions seem to be genuine, and there is no intentional contradiction or mismatch between the visual and textual modalities that would indicate sarcasm. The text is likely a humorous observation of the cat's behavior, but it does not meet the criteria for sarcasm."
+    },
+    {
+        "image_id": "fizh5j",
+        "text": "they were both sleeping 3 minutes ago",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is factual and lacks any indication of irony or contradiction, which are key elements of sarcasm. The image depicts a calm and harmonious scene between the dog and the cat, which is consistent with the text's description of them sleeping together."
+    },
+    {
+        "image_id": "19447zm",
+        "text": "whiskey reminding the dog who's the goodest boy. :d",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and the text do not provide clear evidence of sarcasm. The text seems to be a genuine compliment to the dog, and the visual cues do not contradict the text. The dog and cat appear to be comfortable and relaxed in each other's presence, which suggests a positive interaction between the two animals."
+    },
+    {
+        "image_id": "16d2lna",
+        "text": "i caught the flowerpot destroyer red handed",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a literal statement with no indication of irony or sarcasm. The image shows a dog in a flower pot, which is a common and innocent behavior for dogs. There is no clear evidence of intentional contradiction or mismatch between the text and the image that would suggest sarcasm."
+    },
+    {
+        "image_id": "csgxul",
+        "text": "chomp",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The visual cues in the image are not clear evidence of sarcasm. The text \"chomp\" could be interpreted as a playful or aggressive command to the dog, but without additional context, it's not possible to determine if the intent is sarcastic or not."
+    },
+    {
+        "image_id": "q9f881",
+        "text": "my wife wanted a romantic photo, our dog had different ideas...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the visual cues and the text. The situation described is a genuine, light-hearted moment that does not require sarcasm to be humorous."
+    },
+    {
+        "image_id": "cof3vx",
+        "text": "should i put water on it?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward question with no indication of irony or contradiction, and the image does not provide any visual cues that would suggest a sarcastic intent. The question seems to be a genuine inquiry about the care of the flower bed or the dog's well-being."
+    },
+    {
+        "image_id": "6nq9lb",
+        "text": "you have to stay 10' feet away from the wild ponies on assateague, even if they steal your spot.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward statement of fact, and the image depicts a scene that is consistent with the text's description. There is no clear evidence of sarcasm in either the text or the image. The statement is informative and seems to be intended to inform or remind beachgoers of the rules regarding the wild ponies."
+    },
+    {
+        "image_id": "fqs5r2",
+        "text": "was excited the birds were eating the bread i'd been leaving them...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The statement seems to be genuine and not meant to mock or critique. The image of a raccoon holding bread does not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "1mfpu1",
+        "text": "caught in the act!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The text \"caught in the act!\" is a straightforward observation of the cat's behavior, and the image itself does not contain any visual cues that suggest irony or contradiction. The cat's actions seem genuine, and there is no indication that the observer intends to mock or critique the cat."
+    },
+    {
+        "image_id": "aflf94",
+        "text": "the real jerk is the guy who didn't stop the assault and took a picture instead.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The statement appears to be a genuine comment about a social issue, and the visual cues in the image do not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "1qgmy6",
+        "text": "oh, were you watching something?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The text seems to be a genuine question, and the cat's position in front of the television does not suggest any intentional contradiction or mockery. The overall tone of the image and text is neutral and does not indicate any subversive or ironic intent."
+    },
+    {
+        "image_id": "hfxlou",
+        "text": "*sigh",
+        "llava-mm-label": "-1",
+        "llava-mm-reasoning": "- The text on the sign is not written in a typical, formal font, which might suggest a humorous or sarcastic tone. However, without clear evidence of intentional contradiction or mismatch between the text and the visual cues, it is not possible to definitively label the text as sarcastic.\n- The cat's position on top of the box is unusual, but it is not inherently sarcastic. It could be a simple, humorous situation without any deeper irony.\n- The phrase \"up here so Alli does not sit on\" is ambiguous and could be interpreted in different ways. Without clear evidence of intentional contradiction or mismatch between the text and the visual cues, it is not possible to definitively label the text as sarcastic."
+    },
+    {
+        "image_id": "b65rg9",
+        "text": "what's on my head??",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"what's on my head???\" is a literal question that a cat might ask when it senses something on its head. However, in this image, the cat is not asking a question but rather reacting to the situation with a humorous and exaggerated expression, which is a common human interpretation of a cat's behavior. The juxtaposition of the literal question with the visual cues of the cat's expression creates a humorous effect that could be interpreted as sarcastic by a human observer."
+    },
+    {
+        "image_id": "fjfgm1",
+        "text": "this is a hat happens if you pet a cat to much",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The statement is sarcastic because it is a nonsensical and absurd explanation for the visible cut on the person's hand, which is not a typical outcome of petting a cat. The statement is clearly meant to be ironic and contradictory to the visual content, which is a characteristic of sarcasm."
+    },
+    {
+        "image_id": "7ba12b",
+        "text": "when the best spot on the couch is taken.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and the image together suggest a humorous situation where the dogs are occupying the best spot on the couch, which is typically reserved for humans. The dogs' relaxed postures and the text's tone imply a light-hearted commentary on the dogs' behavior, which is a common example of sarcasm."
+    },
+    {
+        "image_id": "7b07bm",
+        "text": "move along hooman this doesn’t concern you",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"move along hooman this doesn’t concern you\" is a common internet meme that is typically used sarcastically to imply that the content is not meant for human viewers, often in a context where the content is clearly intended for human viewers. The juxtaposition of the peaceful scene of the cat and dog with the sarcastic text creates a humorous contradiction, which is a key characteristic of sarcasm."
+    },
+    {
+        "image_id": "38l439",
+        "text": "tried to take a photo of my ice cream. greedy bastard photobombed me!",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the text and the image suggests a sarcastic intent. The phrase \"greedy bastard\" is a form of sarcasm, as it is an exaggeration meant to mock the person who photobombed the photo. The image of the seagull with the ice cream cone adds a layer of humor and irony, as it is an unexpected and absurd situation."
+    },
+    {
+        "image_id": "n0s54c",
+        "text": "caught him stealing a slice of beef cheek this taco night!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together depict a playful and humorous situation, with no clear evidence of sarcasm. The cat's actions and the person's interaction with the cat are consistent with a lighthearted, non-sarcastic tone."
+    },
+    {
+        "image_id": "18lgvzm",
+        "text": "oh, i'm sorry, were you taking a picture of the castle?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The question is straightforward and lacks the subversive quality that sarcasm typically exhibits."
+    },
+    {
+        "image_id": "1jb6lr",
+        "text": "basset hound thinking: \"you ain't nothin' but elvis presley\"",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is not sarcastic because it is a light-hearted joke that does not intend to mock or criticize. The visual cues of the dog being held by a man and the text's anthropomorphism are consistent with the playful nature of the post."
+    },
+    {
+        "image_id": "6sy3tj",
+        "text": "i guess we'll just be hot then.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The statement \"i guess we'll just be hot then.\" combined with the image of the non-functional air conditioning unit suggests a sarcastic comment about the situation, implying that the person is being ironic about the lack of air conditioning during a hot day."
+    },
+    {
+        "image_id": "35u1ec",
+        "text": "oh, you wanted some gas? not tonight, son.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"not tonight, son\" is a clear indicator of sarcasm, as it is a common way to mock or belittle someone. The context of the image, a gas station at night, could be interpreted as a situation where someone is in need of gas, but the gas station is out of service. The phrase could be a sarcastic comment on this situation."
+    },
+    {
+        "image_id": "k5uhet",
+        "text": "where should i sits? i think i’ll sits here",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The misspelling of \"sit\" as \"sits\" is likely a typo and not intended to be sarcastic. The image shows a person sitting at a desk with a cat on their back, which is a common and literal depiction of a person and their pet. The context does not suggest any intent to mock or critique, and the visual content does not contradict the literal meaning of the text."
+    },
+    {
+        "image_id": "15zmkyi",
+        "text": "no power for you!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The headline is a straightforward news report, and the image of the raccoon is a common representation of the animal without any clear indication of sarcasm. The text does not contain any language that is inherently sarcastic, and the image does not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "1cy9s6",
+        "text": "nope. (x-post from r/aww)",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together depict a common, non-sarcastic situation. The cat's behavior is not intended to mock or critique anything, and the text \"nope\" is a genuine reaction to the image. There is no intentional contradiction or mismatch between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "10co67r",
+        "text": "my disservice dog has outdone herself this time.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is meant to be sarcastic, as it uses the term \"service dog\" in a way that contradicts its usual meaning."
+    },
+    {
+        "image_id": "k7bl5o",
+        "text": "they really had to ruin the christmas photo",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"ruin the christmas photo\" is a sarcastic comment, as it implies that the photo is so bad that it \"ruins\" the Christmas experience, which is an exaggeration for emphasis and is meant to be humorous."
+    },
+    {
+        "image_id": "f850bz",
+        "text": "i can only imagine what the owner must have been through...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase is a common idiom and is not typically used in a sarcastic context. The speaker seems to be expressing genuine concern or empathy for the owner's situation."
+    },
+    {
+        "image_id": "np0zcv",
+        "text": "finally found the problem with our flattened flowers 🙄😩",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies that the person has identified the cause of the flattened flowers, but the image shows a cat, which is not the typical cause of such a problem. The juxtaposition of the text and the image creates a humorous contradiction, which is a characteristic of sarcasm."
+    },
+    {
+        "image_id": "e4qksj",
+        "text": "typical cat",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward observation about a cat's behavior, and the image does not provide any visual cues that would suggest sarcasm. The text and image together do not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "ijwod2",
+        "text": "if it fits i steals",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"if it fits i steals\" is a well-known internet meme that is often used sarcastically to suggest taking something that is not one's own. The visual of the cat's paw reaching for the pizza aligns with the sarcastic intent of the text, as it humorously implies that the cat would steal the pizza if it could."
+    },
+    {
+        "image_id": "bi2otd",
+        "text": "giant bird that killed owner up for sale",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is meant to be sarcastic, as it plays on the absurdity of the situation described."
+    },
+    {
+        "image_id": "aqbmh6",
+        "text": "this discusting bird in prague",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The use of the word \"discusting\" is a clear indicator of sarcasm, as it is a word that is meant to be ironic and contradictory in its meaning."
+    },
+    {
+        "image_id": "8z3hr6",
+        "text": "fuck this tree in particular",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not exhibit any clear, unambiguous evidence of intentional contradiction or mismatch between the verbal and visual modalities that would indicate sarcasm. The sentiment is straightforward and direct."
+    },
+    {
+        "image_id": "217d2m",
+        "text": "monkey pulling dog's tail! hilarious",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a simple, literal statement with no contradictory elements or intent to mock. The image does not provide any additional context that would suggest sarcasm. The overall intent of the post is likely to express humor or amusement without any subversive quality that would indicate sarcasm."
+    },
+    {
+        "image_id": "22bgkr",
+        "text": "that's not for you mr squirrel",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together suggest a humorous situation where the squirrel is being addressed as if it could understand the phrase and the context of the bird feeder. The empty bird feeder implies that the squirrel has already taken the food, which is a common behavior of squirrels. The combination of the unexpected address and the visual cue of the empty feeder creates a sarcastic tone."
+    },
+    {
+        "image_id": "18ddwgr",
+        "text": "an unexpected betrayal",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a playful or humorous situation between the two cats, rather than a sarcastic one. The phrase \"an unexpected betrayal\" is typically used to describe a serious or negative situation, but in this context, it seems to be used in a lighthearted manner, possibly to describe a playful interaction between the cats. The visual cues of the cats' positions and expressions do not indicate any intentional contradiction or mockery, which are key elements of sarcasm."
+    },
+    {
+        "image_id": "ajt8bd",
+        "text": "i was wondering why this plant was dying....",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is neutral and lacks any indication of irony or intent to mock. It is a genuine inquiry about the plant's condition."
+    },
+    {
+        "image_id": "cnu94f",
+        "text": "swan scaring dog",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a genuine interaction between the dog and the swan, with no clear evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm. The situation depicted is likely meant to be taken at face value, as a humorous or tense moment between the two animals."
+    },
+    {
+        "image_id": "1hdbe1",
+        "text": "whaaaat? she is comfy!!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The visual cues suggest a positive and comfortable situation, and the text's tone is consistent with a genuine and positive commentary."
+    },
+    {
+        "image_id": "8y8h5d",
+        "text": "this is our cat charlotte. she is not familiar with boundaries, and has exactly zero shame.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a simple, factual statement about the cat. The image depicts a common, non-sarcastic interaction between a man and his cat. There is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "237ku2",
+        "text": "who the hell ordered this thing without anchovies??",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement is a genuine expression of surprise or annoyance, which is not a characteristic of sarcasm."
+    },
+    {
+        "image_id": "1teqw5",
+        "text": "judgmental merry - looking down her nose at me for a mid-day nap.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the text and the image suggests that the user is sarcastically commenting on the cat's behavior, implying that the cat is being judgmental or disapproving of the user's decision to nap. The phrase \"looking down her nose\" is a clear indicator of sarcasm, as it is an exaggeration of the cat's posture and demeanor."
+    },
+    {
+        "image_id": "aqvdw4",
+        "text": "there was parsley growing in there, you sun bathing little shit.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together imply a sarcastic comment, as the cat is being criticized for resting in a place where parsley might grow, but the cat is not actually harming the parsley. The use of the word \"shit\" as an insult also contributes to the sarcastic tone."
+    },
+    {
+        "image_id": "ukhz0y",
+        "text": "i took this picture before my parrot bit me 😢 and in my defence i was just taking pictures",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together do not provide clear evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The text is a straightforward explanation of a situation, and the image supports this explanation. The phrase \"in my defense\" is a common idiom used to express a justification or excuse, which does not inherently imply sarcasm."
+    },
+    {
+        "image_id": "16ehnks",
+        "text": "woke up to a loud clattering noise…",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The rabbits appear to be resting peacefully, and the presence of the alcohol and cage could be interpreted as a genuine statement about the noise that woke the person up. The context does not suggest any intentional contradiction or mismatch between the modalities that would indicate sarcasm."
+    },
+    {
+        "image_id": "ekgler",
+        "text": "even my socks know cats are jerks",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a straightforward, literal expression of the speaker's opinion. The image of the socks with a cat design does not provide clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm. The overall tone of the post is not sarcastic."
+    },
+    {
+        "image_id": "13q1fdg",
+        "text": "this is my sisters dog laying on my cat while we try to sleep",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not contain any clear evidence of sarcasm. The situation is presented as it is, without any indication of intentional contradiction or mocking. The text is a straightforward statement of fact, and the image depicts a common and often amusing situation between pets."
+    },
+    {
+        "image_id": "14c7pc6",
+        "text": "shout out to this cat that said no to being kept inside. little fella busted out the window screen for a better view.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image do not provide clear evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement seems to be a genuine observation about the cat's behavior, and the image supports this observation. The cat's position on the window sill might be seen as humorous, but it does not rise to the level of sarcasm."
+    },
+    {
+        "image_id": "bi057c",
+        "text": "sat on the toilet, hear a noise and look up to see him staring at me",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The cat's position and the situation described in the text suggest a humorous situation where the cat is in an unexpected place and reacts to a noise, possibly with a sense of annoyance or surprise. The cat's gaze upwards and the context of the situation might imply a mocking or sarcastic tone in the post."
+    },
+    {
+        "image_id": "141xlkd",
+        "text": "getting real tired of your shit bro....",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is a clear example of sarcasm, as it uses the word \"tired\" in a way that contradicts its literal meaning to express a negative emotion."
+    },
+    {
+        "image_id": "aspurm",
+        "text": "why!?!",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together suggest a sarcastic commentary on the lack of seating in the house, with the cat humorously suggesting the eggs as the only available option."
+    },
+    {
+        "image_id": "kj0zoj",
+        "text": "just the tips",
+        "llava-mm-label": "-1",
+        "llava-mm-reasoning": "- The text appears to be a genuine question about the behavior of pests and their specificity to succulents. There is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "12ff1ml",
+        "text": "our airbnb hosts had decorated and hidden many easter eggs around the garden. this asshole (raffaello) decided to find them all and smash them.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear evidence of sarcasm. The language used is direct and expresses a negative emotion towards Raffaello. The image of the cat playing with a toy does not provide any additional context or information that would suggest sarcasm in the text."
+    },
+    {
+        "image_id": "9tb18k",
+        "text": "hello",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a light-hearted and friendly interaction, which is not indicative of sarcasm."
+    },
+    {
+        "image_id": "1945rc",
+        "text": "dude, get a room.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward suggestion, and the image shows a cat in a relaxed state. There is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "giez3u",
+        "text": "we recently adopted a 10 week old kitten, and i was worried about how our older cat would react to the newcomer. whack-a-cat has become her new favorite game apparently",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together suggest a playful interaction between the two cats, which is not inherently sarcastic. The older cat's actions could be interpreted as playful rather than malicious."
+    },
+    {
+        "image_id": "16eucsp",
+        "text": "the art, and the artist. photo credit remi versterres",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The image and text do not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The contrast between the peacock's feathers and the car's condition is a simple observation, not a sarcastic comment. The text is straightforward and does not contain any language that would suggest a sarcastic intent."
+    },
+    {
+        "image_id": "9r1b68",
+        "text": "this goose blocking the road",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text are straightforward and do not contain any clear evidence of sarcasm. The situation depicted is a literal occurrence, and there is no intentional contradiction or mismatch between the visual and textual content that would suggest sarcasm."
+    },
+    {
+        "image_id": "cc9t7n",
+        "text": "had to rush home from work to poop, got company...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a literal description of a situation, and the image provides a visual cue that supports the text. There is no clear evidence of intentional contradiction or mismatch between the text and the image that would indicate sarcasm."
+    },
+    {
+        "image_id": "1d68e14",
+        "text": "rude",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The image and text together suggest a humorous situation where the bird is being rude by standing in the water, which is typically meant for drinking. The presence of the other birds adds to the comedic effect by implying that the bird is being disruptive to the others. The use of the word \"rude\" in the text is a clear indication of sarcasm, as it is an exaggeration of the bird's behavior, which is not actually rude but is presented as such for comedic effect."
+    },
+    {
+        "image_id": "r8uk8g",
+        "text": "it’s that time of the year again",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase is too neutral and common to be considered sarcastic without additional context."
+    },
+    {
+        "image_id": "10deuyh",
+        "text": "my dog pretending to be asleep - in the middle of the road - because she doesn't want to go home.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the dog's posture and the text's tone suggest that the person is using sarcasm to describe the dog's behavior. The dog is not actually asleep, but is lying down in the middle of the road, which is an unusual and inconvenient place for a dog to be. The text's exaggeration of the dog's behavior and the person's reluctance to go home are indicative of a sarcastic tone."
+    },
+    {
+        "image_id": "a94e9o",
+        "text": "her annual christmas ritual",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies that the cat's behavior is a deliberate and humorous act, which is a characteristic of sarcasm. The visual cues of the tree being knocked over and the cat's seemingly unbothered demeanor further suggest that the situation is meant to be seen as amusing rather than a genuine problem."
+    },
+    {
+        "image_id": "cith8m",
+        "text": "the small white one with the napoleon complex (spike) is the alpha dog. i heard the other dogs whining so i went to go see what was wrong... spike wouldn't let them come downstairs.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies a situation where the small white dog is acting as an alpha dog, which is a term often used to describe a dominant dog in a group. The user's concern for the other dogs and their whining suggests a humorous situation where the small dog is perceived as overly protective or controlling. The image of the small dog at the top of the stairs and the other dogs at the bottom, looking up, reinforces the idea of a hierarchy or dominance dynamic. The small dog's position and the other dogs' gaze upwards create a visual metaphor for the small dog's perceived status as the alpha dog."
+    },
+    {
+        "image_id": "dpwace",
+        "text": "ah yes, the classic feline adage: \"if i fits, i sits\"",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is sarcastic because it humorously contradicts the original phrase by suggesting that the cat's action is a literal interpretation of the phrase, which is not the intended meaning. The image reinforces this by showing the cat sitting on the bread, which is a literal interpretation of the phrase."
+    },
+    {
+        "image_id": "v8341o",
+        "text": "this is how my asshole dog sleeps on my bed…my face goes on that pillow",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together do not provide clear evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The person's comment seems to be a light-hearted observation of the dog's behavior rather than a sarcastic remark."
+    },
+    {
+        "image_id": "j36y7e",
+        "text": "stole his bed on the very first day home. the audacity.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between the modalities. The statement seems to be a straightforward complaint or comment, and there is no indication of a sarcastic intent. The visual cues in the image do not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "custce",
+        "text": "my sister found a decade old picture of how her bloodhound liked to greet me.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image does not provide clear evidence of sarcasm. The man's expression and the dog's posture suggest a genuine, positive interaction between them. The text \"SAVE FERRIS\" on the man's shirt could be interpreted as a humorous or lighthearted statement, but it does not inherently convey sarcasm. The overall context of the image does not provide any indication of ironic intent."
+    },
+    {
+        "image_id": "btzlgz",
+        "text": "-are you a zoophile? -me:",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The question is straightforward and lacks any obvious contradictions or ironic intent that would indicate sarcasm. The image of the cat is neutral and does not provide any additional context that would suggest sarcasm."
+    },
+    {
+        "image_id": "fugeko",
+        "text": "i told her off for sitting on the work surface so she did this...",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The cat's action of sitting on the counter after being told off can be interpreted as a form of sarcastic defiance or a playful act, as it is not a typical behavior for a cat to sit on a counter after being scolded."
+    },
+    {
+        "image_id": "57qhdh",
+        "text": "i will watch you as you poop. you may be vulnerable to predator attacks",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is not sarcastic because it is a straightforward observation. The visual cues of the cat lying on the floor do not provide clear evidence of sarcasm. The cat's position could be interpreted as vulnerable, but this is a literal observation, not a sarcastic comment."
+    },
+    {
+        "image_id": "1qm3t1",
+        "text": "this seats open right?",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward question about the availability of seats, and the image does not contain any visual cues that would suggest sarcasm. The dog's position on the couch is neutral and does not contradict the text's apparent sincerity."
+    },
+    {
+        "image_id": "18rz9a1",
+        "text": "she knows that she is not allowed to touch the curtains but thinks i can’t see her.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The combination of the text and the image suggests a situation where a person is aware of a rule but disregards it, possibly with a sense of entitlement or disregard for the rule. The cat's position in front of the curtain might be seen as a playful or mischievous act, which could be interpreted as a form of sarcasm if the cat is intentionally disobeying the rule."
+    },
+    {
+        "image_id": "rmkh4y",
+        "text": "poor baby got neutered and the dog thinks he’s a toy",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together suggest a playful interaction between the cat and the dog, rather than a sarcastic one. The cat's posture and the dog's paw placement indicate a lighthearted moment, and there is no clear evidence of intentional contradiction or mockery that would be characteristic of sarcasm."
+    },
+    {
+        "image_id": "6d52i7",
+        "text": "damn neighbour's cows are tearing the siding off our shed again!",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is sarcastic because it implies that the cows are intentionally causing damage to the shed, which is an anthropomorphism, attributing human-like behavior to animals. The image reinforces this by showing the cow with the wood in its mouth, which could be seen as the cow \"tearing\" the siding off the shed."
+    },
+    {
+        "image_id": "87jf1w",
+        "text": "capybara: you've got to be kidding me",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together create a humorous and sarcastic tone, as the capybara's sweater is an unexpected and whimsical sight. The phrase \"you've got to be kidding me\" is a common expression of disbelief or irony, which is often used sarcastically."
+    },
+    {
+        "image_id": "9vezst",
+        "text": "catwalk",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text are not inherently sarcastic. The paw prints suggest that an animal, likely a dog, has walked across the road, and the text \"catwalk\" is a play on words, suggesting that the dog is walking like a model on a runway. The humor here is a simple pun and does not require an intent to mock or critique."
+    },
+    {
+        "image_id": "amqlvx",
+        "text": "i heard my older lab crying and came out to find his little brother blocking the stairs.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image together depict a situation that is likely meant to be humorous rather than sarcastic. The dog's actions are not intended to mock or critique, but rather to protect its sibling. The situation is presented in a straightforward manner without any clear evidence of intentional contradiction or mismatch between the modalities."
+    },
+    {
+        "image_id": "hzef1o",
+        "text": "the best place for a nap.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text together suggest a positive and literal statement about the cat's chosen resting spot. The cat's relaxed posture and the cozy surface indicate that it is indeed a comfortable place for a nap. The text does not contain any obvious contradictions or ironic language that would suggest sarcasm."
+    },
+    {
+        "image_id": "14fn6h4",
+        "text": "photo says it all =)",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The quote is a literal statement about a cat's behavior, which is consistent with the visual content of the image.\n- The visual content does not provide any clear evidence of sarcasm, as the cats are depicted in a straightforward manner without any obvious contradiction or mismatch between the text and the image."
+    },
+    {
+        "image_id": "cefabt",
+        "text": "smile and wave boys",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text and image are factual and do not contain any elements that suggest an intent to mock or critique. The situation described is unusual and is presented in a straightforward manner without any indication of irony or contradiction."
+    },
+    {
+        "image_id": "lxiydt",
+        "text": "throwback to when my goat was standing on my donkey",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is a clear example of a humorous anecdote, but it does not contain any intentional contradiction or mismatch between the text and the image that would indicate sarcasm. The image and text together suggest a lighthearted and amusing memory, which is not indicative of sarcasm."
+    },
+    {
+        "image_id": "koesga",
+        "text": "is someone missing their breakfast? i think i found it...",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a literal observation, and the image depicts a real-life scenario without any obvious contradiction or irony that would suggest sarcasm."
+    },
+    {
+        "image_id": "caeere",
+        "text": "i needed to use the restroom and saw this instead",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward description of the image, and there is no clear evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm. The phrase \"instead\" could be interpreted as a humorous exaggeration, but it lacks the intentional contradiction that is characteristic of sarcasm."
+    },
+    {
+        "image_id": "27lec1",
+        "text": "my girlfriend's dog, phantom, is a very special boy.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The statement is straightforward and lacks any obvious contradictions or mismatches between the text and the image that would indicate sarcasm. The dog appears to be well-behaved and the setting is calm, which does not suggest any underlying irony or mockery."
+    },
+    {
+        "image_id": "198trkz",
+        "text": "how dozer gets off the bed. keep in mind he had plenty of room to go around instead of over.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The situation depicted is a common occurrence with pets, and the text seems to be a straightforward description of the scene. The dog's position on the bed and the dog standing over it do not inherently suggest a sarcastic intent."
+    },
+    {
+        "image_id": "3x2ibk",
+        "text": "this dog",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image and text do not provide clear evidence of sarcasm. The person is demonstrating a split, which is a legitimate martial arts move, and the dog in the background is not the focus of the image. The text \"this dog\" is a neutral statement, not a sarcastic comment. The image and text are straightforward and do not contain any obvious contradictions or mismatches that would indicate sarcasm."
+    },
+    {
+        "image_id": "b9yd3d",
+        "text": "henry knocked my plant off to make room for butt licking",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The phrase is not clearly sarcastic as it could be interpreted in a literal sense. The phrase is also quite ambiguous, which makes it difficult to determine the intent of the speaker with certainty."
+    },
+    {
+        "image_id": "1qwo77",
+        "text": "i said, use the other door!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is a straightforward instruction with no indication of irony or contradiction. The image shows the goose in a position that does not contradict the instruction. The lack of movement from the goose could be interpreted as a lack of response, but this is not inherently sarcastic."
+    },
+    {
+        "image_id": "qsjby3",
+        "text": "whatcu gonna do huh big boy?",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The phrase \"what cu gonna do huh big boy?\" is a colloquial way of asking what someone is going to do, but the use of \"big boy\" and the questioning tone can be interpreted as sarcastic, implying that the speaker is questioning the competence or intentions of the person they are addressing."
+    },
+    {
+        "image_id": "gc7wjk",
+        "text": "he’s on a diet. it’s not going great.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The image does not provide clear evidence of sarcasm. The cat's presence on the messy floor could be interpreted as a genuine statement about the cat's dietary situation. The text \"he’s on a diet. it’s not going great.\" is a straightforward statement about the cat's dietary progress, which does not contain any obvious sarcasm."
+    },
+    {
+        "image_id": "78r1d8",
+        "text": "fuck your pie.",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text is a clear contradiction to the expected positive sentiment towards a pie, and the image reinforces the context of the pie. The combination of the two modalities suggests a deliberate attempt to mock or critique the pie, which is a key characteristic of sarcasm."
+    },
+    {
+        "image_id": "ce6cpg",
+        "text": "no photos please",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "- The text is a literal statement that is not intended to be sarcastic. It is a common trope used in internet humor to poke fun at the idea that cats are oblivious to human activities.\n- The image shows the cat in a neutral pose, and there are no visual cues that suggest sarcasm. The cat's expression is not exaggerated or contradictory to the text, which are common visual cues for sarcasm."
+    },
+    {
+        "image_id": "kv3rhq",
+        "text": "without even consulting anyone, this guy unilaterally decided to stage an intervention",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies a negative judgment of the person's actions, which is a common characteristic of sarcasm. The visual cues, such as the person's posture and the dog's attention, do not provide clear evidence of sarcasm. However, the text's tone and the implied criticism of the person's actions suggest a sarcastic intent."
+    },
+    {
+        "image_id": "b2mcud",
+        "text": "dog steals his sister's ball then sits on her head.",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The visual content and the text together suggest a light-hearted interaction between the two dogs, with no clear evidence of intentional contradiction or mismatch between the modalities that would indicate sarcasm. The phrase \"sits on her head\" is likely a playful exaggeration or a humorous way of describing the dog's position on top of the other dog, rather than an intentional mockery or critique."
+    },
+    {
+        "image_id": "cysiq4",
+        "text": "cat not letting maintenance do their job",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text and image together imply a situation where the cat is intentionally obstructing maintenance, which is a form of sarcasm as it contradicts the expected behavior of a cat."
+    },
+    {
+        "image_id": "129eqcf",
+        "text": "trying to sleep after a night shift and thor kept biting my toes and waking me up because i was in bed during the day against his wishes!",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text does not contain any clear, unambiguous evidence of intentional contradiction or mismatch between modalities that would indicate sarcasm. The statement seems to be a straightforward description of a situation involving a pet cat and its owner's sleep schedule."
+    },
+    {
+        "image_id": "kkjogu",
+        "text": "her annual christmas ritual",
+        "llava-mm-label": "1",
+        "llava-mm-reasoning": "The text implies a humorous or sarcastic commentary on the cat's behavior, suggesting that the cat's actions are part of a yearly tradition. The visual cues of the tree being knocked over and the cat's position next to it reinforce this interpretation."
+    },
+    {
+        "image_id": "1kznuc",
+        "text": "fuck you this is my bed",
+        "llava-mm-label": "0",
+        "llava-mm-reasoning": "The text is not sarcastic because it is a direct and aggressive statement, which does not contain the intentional contradiction or mismatch between the literal and implied meaning that is characteristic of sarcasm. The image, however, could be interpreted as humorous or ironic, depending on the context, but without additional information, it is not clear if the intent is to mock or critique."
+    }
+]

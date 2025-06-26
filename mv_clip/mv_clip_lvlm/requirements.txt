@@ -1,0 +1,6 @@
+numpy
+tqdm
+pillow
+transformers
+wandb
+scikit-learn
