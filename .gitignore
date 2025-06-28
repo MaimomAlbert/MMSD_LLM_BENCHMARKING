@@ -5,6 +5,7 @@ llama_experiments/logs/cot.log
 llava_experiments/logs/cot.log
 llava_experiments/__pycache__/prompts.cpython-310.pyc
 internvl_ft/pretrained/InternVL2_5-8B
+internvl_ft/internvl_chat/work_dirs/internvl_chat_v2_5/internvl2_5_8b_dynamic_res_2nd_finetune_lora_mmsd2
 internvl_ft/internvl_chat/work_dirs/internvl_chat_v2_5/internvl2_5_8b_dynamic_res_2nd_finetune_lora_mmsd2_merge
 mllm_finetune/idefics_9B_MMSD_outputs_merged
 mllm_finetune/idefics2_9B_mmsd2_outputs

@@ -1,0 +1,10 @@
+{
+    "mmsd2_train": {
+    "root": "/home/gpuuser3/sinngam_albert/datasets/mmsd2/dataset_image",
+    "annotation": "/home/gpuuser3/sinngam_albert/datasets/mmsd2/internvl_finetuning_format/train.jsonl",
+    "data_augment": false,
+    "max_dynamic_patch": 12,
+    "repeat_time": 1,
+    "length": 19816
+    }
+}
