@@ -106,7 +106,7 @@ if __name__ == "__main__":
                     text=sample['text'],
                     subreddit=sample['subreddit'],
                     gpt= str(convert_text_to_label(model_response)),
-                    output_file="gpt_predictions/llava16_vicuna_osint.json"
+                    output_file="gpt_predictions/llava16_vicuna_osint_batch_2.json"
                 )
                 update_last_index(i, file_path=track_file)
                 print("-------------------------------------------")
