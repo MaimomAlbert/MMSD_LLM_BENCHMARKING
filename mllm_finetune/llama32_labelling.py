@@ -99,7 +99,7 @@ def convert_text_to_label(response):
 if __name__ == "__main__":
     df = pd.read_csv("/home/gpuuser3/sinngam_albert/datasets/osint/batch_2.csv", dtype='str')
     df['image_path'] = df['image_id'].apply(
-        lambda x: f"/home/gpuuser3/sinngam_albert/datasets/osint/batch2/{x}.png"
+        lambda x: f"/home/gpuuser3/sinngam_albert/datasets/osint/batch_2/{x}.png"
     )
     df['question'] = df['text'].apply(
         lambda x: f"Classify the text <{x}> and the image into one of: <Sarcastic, Non-sarcastic>."
