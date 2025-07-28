@@ -86,7 +86,7 @@ if __name__ == "__main__":
     df['question'] = df['text'].apply(
         lambda x: f"Classify the text <{x}> and the image into one of the following categories: <SARCASTIC, NOT SARCASTIC>."
     )
-    track_file = "/home/gpuuser3/sinngam_albert/work/mllm_finetune/track_mistral.txt"
+    track_file = "/home/gpuuser3/sinngam_albert/work/mllm_finetune/track_vicuna.txt"
     start = get_last_index(file_path=track_file)
     print(start)
     print(len(df))
