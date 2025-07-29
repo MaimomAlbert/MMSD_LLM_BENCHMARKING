@@ -89,9 +89,9 @@ def convert_text_to_label(response):
         return -1
 
 if __name__ == "__main__":
-    df = pd.read_csv("/home/gpuuser3/sinngam_albert/datasets/osint/batch_2.csv", dtype='str')
+    df = pd.read_csv("/home/gpuuser3/sinngam_albert/datasets/osint/batch_3.csv", dtype='str')
     df['image_path'] = df['image_id'].apply(
-        lambda x: f"/home/gpuuser3/sinngam_albert/datasets/osint/batch_2/{x}.png"
+        lambda x: f"/home/gpuuser3/sinngam_albert/datasets/osint/batch_3/{x}.png"
     )
     df['question'] = df['text'].apply(
         lambda x: f"Question: Classify the text <{x}> and the image into one of the following categories: <SARCASTIC, NOT SARCASTIC>. Answer:"
@@ -116,7 +116,7 @@ if __name__ == "__main__":
                     text=sample['text'],
                     subreddit=sample['subreddit'],
                     gpt= str(convert_text_to_label(model_response)),
-                    output_file="gpt_predictions/idefics2_9B_osint_batch_2.json"
+                    output_file="gpt_predictions/idefics2_9B_osint_batch_3.json"
                 )
                 update_last_index(i, file_path=track_file)
                 print("-------------------------------------------")
